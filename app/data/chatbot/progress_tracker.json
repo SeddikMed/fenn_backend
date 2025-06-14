@@ -1,0 +1,11 @@
+{
+  "user_id": "default",
+  "total_score": 17,
+  "quizzes": {
+    "fruits": 5,
+    "vegetables": 4,
+    "body_parts": 3,
+    "verb_tenses": 2,
+    "pronouns": 3
+  }
+}

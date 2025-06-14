@@ -1,0 +1,1012 @@
+{
+    "fruits": [
+        {
+            "question": "What is 'abricot' in English?",
+            "choices": [
+                "apricot",
+                "plum",
+                "peach",
+                "pear"
+            ],
+            "answer": "apricot"
+        },
+        {
+            "question": "What is 'cerise' in English?",
+            "choices": [
+                "cherry",
+                "apple",
+                "grape",
+                "pear"
+            ],
+            "answer": "cherry"
+        },
+        {
+            "question": "What is 'raisin' in English?",
+            "choices": [
+                "grape",
+                "apple",
+                "banana",
+                "fig"
+            ],
+            "answer": "grape"
+        },
+        {
+            "question": "What is 'ananas' in English?",
+            "choices": [
+                "pineapple",
+                "mango",
+                "papaya",
+                "orange"
+            ],
+            "answer": "pineapple"
+        },
+        {
+            "question": "What is 'avocat' in English?",
+            "choices": [
+                "avocado",
+                "grapefruit",
+                "melon",
+                "lime"
+            ],
+            "answer": "avocado"
+        },
+        {
+            "question": "What is 'citron' in English?",
+            "choices": [
+                "lemon",
+                "lime",
+                "orange",
+                "grapefruit"
+            ],
+            "answer": "lemon"
+        },
+        {
+            "question": "What is 'banane' in English?",
+            "choices": [
+                "banana",
+                "peach",
+                "plum",
+                "grape"
+            ],
+            "answer": "banana"
+        },
+        {
+            "question": "What is 'poire' in English?",
+            "choices": [
+                "pear",
+                "apple",
+                "fig",
+                "melon"
+            ],
+            "answer": "pear"
+        },
+        {
+            "question": "What is 'fraise' in English?",
+            "choices": [
+                "strawberry",
+                "raspberry",
+                "blueberry",
+                "cherry"
+            ],
+            "answer": "strawberry"
+        },
+        {
+            "question": "What is 'framboise' in English?",
+            "choices": [
+                "raspberry",
+                "strawberry",
+                "blackberry",
+                "currant"
+            ],
+            "answer": "raspberry"
+        },
+        {
+            "question": "What is 'kiwi' in English?",
+            "choices": [
+                "kiwi",
+                "fig",
+                "lemon",
+                "pear"
+            ],
+            "answer": "kiwi"
+        },
+        {
+            "question": "What is 'mangue' in English?",
+            "choices": [
+                "mango",
+                "papaya",
+                "melon",
+                "peach"
+            ],
+            "answer": "mango"
+        },
+        {
+            "question": "What is 'orange' in English?",
+            "choices": [
+                "orange",
+                "lemon",
+                "tangerine",
+                "grapefruit"
+            ],
+            "answer": "orange"
+        },
+        {
+            "question": "What is 'noix de coco' in English?",
+            "choices": [
+                "coconut",
+                "nut",
+                "peanut",
+                "hazelnut"
+            ],
+            "answer": "coconut"
+        },
+        {
+            "question": "What is 'p\u00eache' in English?",
+            "choices": [
+                "peach",
+                "plum",
+                "pear",
+                "apricot"
+            ],
+            "answer": "peach"
+        },
+        {
+            "question": "What is 'pomme' in English?",
+            "choices": [
+                "apple",
+                "pear",
+                "banana",
+                "melon"
+            ],
+            "answer": "apple"
+        },
+        {
+            "question": "What is 'melon' in English?",
+            "choices": [
+                "melon",
+                "mango",
+                "papaya",
+                "grape"
+            ],
+            "answer": "melon"
+        },
+        {
+            "question": "What is 'past\u00e8que' in English?",
+            "choices": [
+                "watermelon",
+                "melon",
+                "grapefruit",
+                "pineapple"
+            ],
+            "answer": "watermelon"
+        }
+    ],
+    "vegetables": [
+        {
+            "question": "What is 'oignon' in English?",
+            "choices": [
+                "onion",
+                "garlic",
+                "leek",
+                "shallot"
+            ],
+            "answer": "onion"
+        },
+        {
+            "question": "What is 'pomme de terre' in English?",
+            "choices": [
+                "potato",
+                "turnip",
+                "carrot",
+                "pea"
+            ],
+            "answer": "potato"
+        },
+        {
+            "question": "What is 'tomate' in English?",
+            "choices": [
+                "tomato",
+                "pepper",
+                "beet",
+                "cucumber"
+            ],
+            "answer": "tomato"
+        },
+        {
+            "question": "What is 'carotte' in English?",
+            "choices": [
+                "carrot",
+                "beet",
+                "radish",
+                "pea"
+            ],
+            "answer": "carrot"
+        },
+        {
+            "question": "What is 'courgette' in English?",
+            "choices": [
+                "zucchini",
+                "cucumber",
+                "eggplant",
+                "bean"
+            ],
+            "answer": "zucchini"
+        },
+        {
+            "question": "What is 'betterave' in English?",
+            "choices": [
+                "beet",
+                "carrot",
+                "radish",
+                "turnip"
+            ],
+            "answer": "beet"
+        },
+        {
+            "question": "What is 'ail' in English?",
+            "choices": [
+                "garlic",
+                "onion",
+                "leek",
+                "ginger"
+            ],
+            "answer": "garlic"
+        },
+        {
+            "question": "What is 'aubergine' in English?",
+            "choices": [
+                "eggplant",
+                "zucchini",
+                "cucumber",
+                "radish"
+            ],
+            "answer": "eggplant"
+        },
+        {
+            "question": "What is 'basilic' in English?",
+            "choices": [
+                "basil",
+                "mint",
+                "thyme",
+                "parsley"
+            ],
+            "answer": "basil"
+        },
+        {
+            "question": "What is 'concombre' in English?",
+            "choices": [
+                "cucumber",
+                "zucchini",
+                "bean",
+                "pea"
+            ],
+            "answer": "cucumber"
+        },
+        {
+            "question": "What is '\u00e9pinard' in English?",
+            "choices": [
+                "spinach",
+                "lettuce",
+                "cabbage",
+                "parsley"
+            ],
+            "answer": "spinach"
+        },
+        {
+            "question": "What is 'haricot' in English?",
+            "choices": [
+                "bean",
+                "pea",
+                "lentil",
+                "corn"
+            ],
+            "answer": "bean"
+        },
+        {
+            "question": "What is 'lentille' in English?",
+            "choices": [
+                "lentil",
+                "pea",
+                "bean",
+                "rice"
+            ],
+            "answer": "lentil"
+        },
+        {
+            "question": "What is 'ma\u00efs' in English?",
+            "choices": [
+                "corn",
+                "bean",
+                "wheat",
+                "rice"
+            ],
+            "answer": "corn"
+        },
+        {
+            "question": "What is 'petit pois' in English?",
+            "choices": [
+                "pea",
+                "bean",
+                "lentil",
+                "corn"
+            ],
+            "answer": "pea"
+        },
+        {
+            "question": "What is 'pois chiche' in English?",
+            "choices": [
+                "chickpea",
+                "lentil",
+                "pea",
+                "bean"
+            ],
+            "answer": "chickpea"
+        },
+        {
+            "question": "What is 'poivron' in English?",
+            "choices": [
+                "pepper",
+                "tomato",
+                "cucumber",
+                "zucchini"
+            ],
+            "answer": "pepper"
+        },
+        {
+            "question": "What is 'potiron' in English?",
+            "choices": [
+                "pumpkin",
+                "squash",
+                "carrot",
+                "radish"
+            ],
+            "answer": "pumpkin"
+        }
+    ],
+    "body_parts": [
+        {
+            "question": "What is 'nez' in English?",
+            "choices": [
+                "nose",
+                "ear",
+                "eye",
+                "mouth"
+            ],
+            "answer": "nose"
+        },
+        {
+            "question": "What is 'yeux' in English?",
+            "choices": [
+                "eyes",
+                "ears",
+                "nose",
+                "toes"
+            ],
+            "answer": "eyes"
+        },
+        {
+            "question": "What is 'oreille' in English?",
+            "choices": [
+                "ear",
+                "eye",
+                "mouth",
+                "nose"
+            ],
+            "answer": "ear"
+        },
+        {
+            "question": "What is 'sourcils' in English?",
+            "choices": [
+                "eyebrows",
+                "eyelashes",
+                "eyes",
+                "ears"
+            ],
+            "answer": "eyebrows"
+        },
+        {
+            "question": "What is 'cils' in English?",
+            "choices": [
+                "eyelashes",
+                "eyebrows",
+                "eyes",
+                "ears"
+            ],
+            "answer": "eyelashes"
+        },
+        {
+            "question": "What is 'bouche' in English?",
+            "choices": [
+                "mouth",
+                "nose",
+                "eye",
+                "ear"
+            ],
+            "answer": "mouth"
+        },
+        {
+            "question": "What is 'dent' in English?",
+            "choices": [
+                "tooth",
+                "tongue",
+                "lip",
+                "cheek"
+            ],
+            "answer": "tooth"
+        },
+        {
+            "question": "What is 'cheveux' in English?",
+            "choices": [
+                "hair",
+                "head",
+                "face",
+                "ear"
+            ],
+            "answer": "hair"
+        },
+        {
+            "question": "What is 'bras' in English?",
+            "choices": [
+                "arm",
+                "leg",
+                "shoulder",
+                "wrist"
+            ],
+            "answer": "arm"
+        },
+        {
+            "question": "What is 'main' in English?",
+            "choices": [
+                "hand",
+                "finger",
+                "palm",
+                "nail"
+            ],
+            "answer": "hand"
+        },
+        {
+            "question": "What is 'coude' in English?",
+            "choices": [
+                "nose",
+                "hand",
+                "arm",
+                "knee"
+            ],
+            "answer": "elbow"
+        },
+        {
+            "question": "What is 'poignet' in English?",
+            "choices": [
+                "hand",
+                "nose",
+                "arm",
+                "wrist"
+            ],
+            "answer": "wrist"
+        },
+        {
+            "question": "What is 'doigt' in English?",
+            "choices": [
+                "arm",
+                "hand",
+                "foot",
+                "eye"
+            ],
+            "answer": "finger"
+        },
+        {
+            "question": "What is 'genou' in English?",
+            "choices": [
+                "arm",
+                "knee",
+                "nose",
+                "ear"
+            ],
+            "answer": "knee"
+        },
+        {
+            "question": "What is 'jambe' in English?",
+            "choices": [
+                "foot",
+                "leg",
+                "arm",
+                "hand"
+            ],
+            "answer": "leg"
+        },
+        {
+            "question": "What is 'cheville' in English?",
+            "choices": [
+                "nose",
+                "ankle",
+                "foot",
+                "hand"
+            ],
+            "answer": "ankle"
+        },
+        {
+            "question": "What is 'pied' in English?",
+            "choices": [
+                "ear",
+                "eye",
+                "knee",
+                "foot"
+            ],
+            "answer": "foot"
+        },
+        {
+            "question": "What is 'dos' in English?",
+            "choices": [
+                "hand",
+                "foot",
+                "back",
+                "ear"
+            ],
+            "answer": "back"
+        },
+        {
+            "question": "What is '\u00e9paule' in English?",
+            "choices": [
+                "arm",
+                "foot",
+                "hand",
+                "ear"
+            ],
+            "answer": "shoulder"
+        },
+        {
+            "question": "What is 'orteil' in English?",
+            "choices": [
+                "eye",
+                "nose",
+                "knee",
+                "ear"
+            ],
+            "answer": "toe"
+        },
+        {
+            "question": "What is 'tibia' in English?",
+            "choices": [
+                "foot",
+                "hand",
+                "arm",
+                "nose"
+            ],
+            "answer": "shin"
+        },
+        {
+            "question": "What is 'mollet' in English?",
+            "choices": [
+                "ear",
+                "eye",
+                "arm",
+                "foot"
+            ],
+            "answer": "calf"
+        },
+        {
+            "question": "What is 'biceps' in English?",
+            "choices": [
+                "foot",
+                "eye",
+                "hand",
+                "biceps"
+            ],
+            "answer": "biceps"
+        },
+        {
+            "question": "What is 'triceps' in English?",
+            "choices": [
+                "hand",
+                "foot",
+                "nose",
+                "arm"
+            ],
+            "answer": "triceps"
+        },
+        {
+            "question": "What is 'ventre' in English?",
+            "choices": [
+                "belly",
+                "foot",
+                "arm",
+                "eye"
+            ],
+            "answer": "belly"
+        },
+        {
+            "question": "What is 'langue' in English?",
+            "choices": [
+                "knee",
+                "arm",
+                "foot",
+                "eye"
+            ],
+            "answer": "tongue"
+        },
+        {
+            "question": "What is 'joue' in English?",
+            "choices": [
+                "eye",
+                "nose",
+                "ear",
+                "knee"
+            ],
+            "answer": "cheek"
+        },
+        {
+            "question": "What is 'menton' in English?",
+            "choices": [
+                "eye",
+                "foot",
+                "arm",
+                "knee"
+            ],
+            "answer": "chin"
+        }
+    ],
+    "verb_tenses": [
+        {
+            "question": "What is the past tense of 'eat'?",
+            "choices": [
+                "ran",
+                "ateed",
+                "ate",
+                "ate"
+            ],
+            "answer": "ate"
+        },
+        {
+            "question": "What is the past tense of 'dance'?",
+            "choices": [
+                "danceed",
+                "went",
+                "ran",
+                "danced"
+            ],
+            "answer": "danced"
+        },
+        {
+            "question": "What is the past tense of 'sing'?",
+            "choices": [
+                "sang",
+                "singed",
+                "sanged",
+                "ate"
+            ],
+            "answer": "sang"
+        },
+        {
+            "question": "What is the past tense of 'go'?",
+            "choices": [
+                "goed",
+                "went",
+                "went",
+                "ran"
+            ],
+            "answer": "went"
+        },
+        {
+            "question": "What is the past tense of 'see'?",
+            "choices": [
+                "saw",
+                "sawed",
+                "ran",
+                "seeed"
+            ],
+            "answer": "saw"
+        },
+        {
+            "question": "What is the past tense of 'pick'?",
+            "choices": [
+                "picked",
+                "ate",
+                "ran",
+                "went"
+            ],
+            "answer": "picked"
+        },
+        {
+            "question": "What is the past tense of 'talk'?",
+            "choices": [
+                "went",
+                "talkeded",
+                "talked",
+                "ate"
+            ],
+            "answer": "talked"
+        },
+        {
+            "question": "What is the past tense of 'run'?",
+            "choices": [
+                "went",
+                "runed",
+                "ate",
+                "raned"
+            ],
+            "answer": "ran"
+        },
+        {
+            "question": "What is the past tense of 'walk'?",
+            "choices": [
+                "ate",
+                "ran",
+                "walked",
+                "walked"
+            ],
+            "answer": "walked"
+        },
+        {
+            "question": "What is the past tense of 'think'?",
+            "choices": [
+                "thought",
+                "went",
+                "thoughted",
+                "ate"
+            ],
+            "answer": "thought"
+        },
+        {
+            "question": "What is the past tense of 'drink'?",
+            "choices": [
+                "went",
+                "ate",
+                "drank",
+                "ran"
+            ],
+            "answer": "drank"
+        },
+        {
+            "question": "What is the past tense of 'study'?",
+            "choices": [
+                "went",
+                "studieded",
+                "ran",
+                "studied"
+            ],
+            "answer": "studied"
+        },
+        {
+            "question": "What is the past tense of 'listen'?",
+            "choices": [
+                "listened",
+                "went",
+                "listened",
+                "ate"
+            ],
+            "answer": "listened"
+        },
+        {
+            "question": "What is the past tense of 'smell'?",
+            "choices": [
+                "went",
+                "smelled",
+                "ate",
+                "ran"
+            ],
+            "answer": "smelled"
+        },
+        {
+            "question": "What is the past tense of 'write'?",
+            "choices": [
+                "wroteed",
+                "ate",
+                "writeed",
+                "went"
+            ],
+            "answer": "wrote"
+        },
+        {
+            "question": "What is the past tense of 'read'?",
+            "choices": [
+                "readed",
+                "ran",
+                "readed",
+                "ate"
+            ],
+            "answer": "read"
+        },
+        {
+            "question": "What is the past tense of 'swim'?",
+            "choices": [
+                "swimed",
+                "ate",
+                "swamed",
+                "ran"
+            ],
+            "answer": "swam"
+        },
+        {
+            "question": "What is the past tense of 'drive'?",
+            "choices": [
+                "drove",
+                "went",
+                "driveed",
+                "ran"
+            ],
+            "answer": "drove"
+        }
+    ],
+    "pronouns": [
+        {
+            "question": "What type of pronoun is 'me'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'you'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        },
+        {
+            "question": "What type of pronoun is 'him'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'her'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'it'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        },
+        {
+            "question": "What type of pronoun is 'us'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'them'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'I'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        },
+        {
+            "question": "What type of pronoun is 'we'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        },
+        {
+            "question": "What type of pronoun is 'they'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        },
+        {
+            "question": "What type of pronoun is 'mine'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'yours'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'his'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'hers'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'ours'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'theirs'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "possessive"
+        },
+        {
+            "question": "What type of pronoun is 'myself'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "reflexive"
+        },
+        {
+            "question": "What type of pronoun is 'yourself'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "reflexive"
+        }
+    ]
+}

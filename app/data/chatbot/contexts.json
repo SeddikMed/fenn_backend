@@ -1,0 +1,363 @@
+{
+  "pronouns_translation": {
+    "je": "I",
+    "tu": "you",
+    "il": "he",
+    "elle": "she",
+    "nous": "we",
+    "vous": "you (plural)",
+    "ils": "they",
+    "elles": "they"
+  },
+  "algeria_football": {
+    "title": "Équipe nationale de football d'Algérie",
+    "history": [
+      "Premier match officiel : 12 janvier 1968 contre l'Ouganda (victoire 3-0).",
+      "Première participation à la Coupe du Monde : 1982 en Espagne.",
+      "Meilleure performance : Huitièmes de finale en 2014 au Brésil.",
+      "Victoires en Coupe d'Afrique des Nations (CAN) : 1990 et 2019."
+    ],
+    "achievements": {
+      "CAN_titles": [
+        1990,
+        2019
+      ],
+      "World_Cup_appearances": [
+        1982,
+        1986,
+        2010,
+        2014
+      ],
+      "FIFA_Ranking_March_2025": "37e mondial, 5e africain"
+    },
+    "statistics": {
+      "Matches_played": 446,
+      "Wins": 183,
+      "Draws": 127,
+      "Losses": 141,
+      "Goals_scored": 600,
+      "Goals_conceded": 475
+    },
+    "notable_players": {
+      "Islam Slimani": "Meilleur buteur (46 buts)",
+      "Riyad Mahrez": "Meilleur passeur (35 passes décisives)",
+      "Aïssa Mandi": "Joueur le plus capé (103 sélections)"
+    },
+    "records": {
+      "Largest_win": "9-0 contre le Yémen (1973)",
+      "Heaviest_defeat": "0-5 contre l'Allemagne de l'Ouest (1964)",
+      "Longest_unbeaten_streak": "35 matchs sans défaite (2018–2022)"
+    },
+    "stadium": "Stade du 5-Juillet-1962, Alger"
+  },
+  "algerian_war": {
+    "title": "La Guerre d'Algérie (1954–1962)",
+    "summary": "La Guerre d'Algérie fut un conflit majeur opposant le Front de libération nationale (FLN) à l'armée française, visant l'indépendance de l'Algérie.",
+    "events": [
+      {
+        "date": "1er novembre 1954",
+        "event": "Déclenchement de l'insurrection par le FLN, connu sous le nom de 'Toussaint rouge'."
+      },
+      {
+        "date": "1956–1957",
+        "event": "Bataille d'Alger : intensification des combats."
+      },
+      {
+        "date": "13 mai 1958",
+        "event": "Crise politique en France menant au retour de De Gaulle."
+      },
+      {
+        "date": "1961",
+        "event": "Tentative de putsch des généraux à Alger."
+      },
+      {
+        "date": "18 mars 1962",
+        "event": "Signature des Accords d'Évian."
+      },
+      {
+        "date": "5 juillet 1962",
+        "event": "Proclamation officielle de l'indépendance."
+      }
+    ],
+    "consequences": [
+      "Pertes humaines massives.",
+      "Exode d'un million de Pieds-Noirs et milliers de Harkis.",
+      "Traumatismes durables en Algérie et en France."
+    ]
+  },
+  "vegetables_vocabulary": {
+    "title": "Vocabulaire des légumes en anglais",
+    "categories": {
+      "Feuilles": {
+        "Brussels sprouts": "choux de Bruxelles",
+        "Cabbage": "chou",
+        "Kale": "chou frisé",
+        "Lettuce": "laitue",
+        "Lamb's lettuce": "mâche",
+        "Spinach": "épinard",
+        "Watercress": "cresson"
+      },
+      "Racines": {
+        "Beetroot": "betterave",
+        "Carrot": "carotte",
+        "Celeriac": "céleri-rave",
+        "Ginger": "gingembre",
+        "Parsnip": "panais",
+        "Radish": "radis",
+        "Swede": "rutabaga",
+        "Turnip": "navet"
+      },
+      "Graines": {
+        "Beans": "haricots",
+        "Peas": "pois",
+        "Sweet corn": "maïs"
+      },
+      "Tiges": {
+        "Asparagus": "asperge",
+        "Celery": "céleri",
+        "Kohlrabi": "chou-rave",
+        "Rhubarb": "rhubarbe"
+      },
+      "Tubercules": {
+        "Potato": "pomme de terre",
+        "Taro": "taro",
+        "Yam": "igname"
+      },
+      "Champignons": {
+        "Mushroom": "champignon"
+      },
+      "Fruits-légumes": {
+        "Chilli pepper": "piment",
+        "Choko": "chayote",
+        "Courgette (UK) / Zucchini (US)": "courgette",
+        "Cucumber": "concombre",
+        "Pickle": "cornichon",
+        "Eggplant": "aubergine",
+        "Melon": "melon",
+        "Okra": "gombo",
+        "Pumpkin": "citrouille",
+        "Tomato": "tomate"
+      }
+    }
+  },
+  "fruits_vocabulary": {
+    "title": "Vocabulaire des fruits en anglais",
+    "categories": {
+      "Fruits communs": {
+        "Apple": "pomme",
+        "Apricot": "abricot",
+        "Banana": "banane",
+        "Cherry": "cerise",
+        "Peach": "pêche",
+        "Pear": "poire",
+        "Plum": "prune",
+        "Melon": "melon",
+        "Quince": "coing",
+        "Watermelon": "pastèque"
+      },
+      "Agrumes": {
+        "Grapefruit": "pamplemousse",
+        "Kumquat": "kumquat",
+        "Lemon": "citron",
+        "Lime": "citron vert",
+        "Orange": "orange",
+        "Tangerine": "mandarine"
+      },
+      "Fruits rouges": {
+        "Blackberry": "mûre",
+        "Blackcurrant": "cassis",
+        "Blueberry": "myrtille",
+        "Cranberry": "canneberge",
+        "Gooseberry": "groseille à maquereau",
+        "Raspberry": "framboise",
+        "Redcurrant": "groseille rouge",
+        "Strawberry": "fraise"
+      },
+      "Fruits exotiques": {
+        "Coconut": "noix de coco",
+        "Dragonfruit": "fruit du dragon",
+        "Fig": "figue",
+        "Kiwi": "kiwi",
+        "Lychee": "litchi",
+        "Mango": "mangue",
+        "Passion fruit": "fruit de la passion",
+        "Pineapple": "ananas",
+        "Pomegranate": "grenade",
+        "Prickly pear": "figue de barbarie"
+      }
+    }
+  },
+
+  "health_body": {
+    "title": "Santé et corps humain",
+    "topics": {
+      "body_parts": {
+        "head": "tête",
+        "forehead": "front",
+        "skull": "crâne",
+        "face": "visage",
+        "eye": "œil",
+        "eyebrow": "sourcil",
+        "eyelid": "paupière",
+        "eyelash": "cil",
+        "nose": "nez",
+        "nostril": "narine",
+        "cheek": "joue",
+        "cheekbone": "pommette",
+        "mouth": "bouche",
+        "lip": "lèvre",
+        "tooth": "dent",
+        "tongue": "langue",
+        "chin": "menton",
+        "neck": "cou",
+        "throat": "gorge",
+        "shoulder": "épaule",
+        "arm": "bras",
+        "elbow": "coude",
+        "forearm": "avant-bras",
+        "wrist": "poignet",
+        "hand": "main",
+        "finger": "doigt",
+        "thumb": "pouce",
+        "nail": "ongle",
+        "chest": "poitrine",
+        "back": "dos",
+        "waist": "taille",
+        "abdomen": "abdomen",
+        "stomach": "estomac",
+        "hip": "hanche",
+        "buttocks": "fesses",
+        "leg": "jambe",
+        "thigh": "cuisse",
+        "knee": "genou",
+        "calf": "mollet",
+        "ankle": "cheville",
+        "foot": "pied",
+        "heel": "talon",
+        "toe": "orteil"
+      }
+    }
+  },
+  
+
+  "real_english_phrases": {
+  "title": "500 Real English Phrases",
+  "expressions": {
+    "salut": {
+      "fr": "salut",
+      "en": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Hi there",
+        "Howdy"
+      ]
+    },
+    
+    "merci": {
+      "fr": "merci",
+      "en": [
+        "Thank you",
+        "No problem",
+        "No worries",
+        "Don’t mention it",
+        "My pleasure",
+        "Anytime",
+        "It was the least I could do",
+        "Glad to help",
+        "Sure!"
+      ]
+    },
+    "bonjour": {
+      "fr": "bonjour",
+      "en": [
+        "Good morning"
+      ]
+    },
+     "bonsoir": {
+      "fr": "bonsoir",
+      "en": [
+        "Good evening"
+      ]
+    },
+    "oui": {
+      "fr": "oui",
+      "en": [
+        "yes",
+        "yeah"
+      ]
+    },
+     "non": {
+      "fr": "non",
+      "en": [
+        "no",
+        "nope"
+      ]
+    },
+        "ravi de faire ta connaissance": {
+      "fr": "ravi de faire ta connaissance",
+      "en": [
+        "Nice to meet you",
+        "Pleased to meet you",
+        "It’s a pleasure to meet you",
+        "Glad to meet you",
+        "Delighted to meet you"
+      ]
+    },
+ "je ne comprends pas": {
+    "fr": "je ne comprends pas",
+    "en": ["I don’t understand", "I didn’t get it"]
+  },
+   "félicitations": {
+    "fr": "félicitations",
+    "en": ["Congratulations", "Well done", "Congrats"]
+  },
+  "bienvenue": {
+    "fr": "bienvenue",
+    "en": ["Welcome", "Glad to have you here"]
+  },
+  "comment ça va ?": {
+    "fr": "comment ça va ?",
+    "en": ["How are you?", "How’s it going?", "Are you doing okay?"]
+  },
+  "quoi de neuf ?": {
+    "fr": "quoi de neuf ?",
+    "en": ["What’s new?", "What’s up?", "Anything new?"]
+  },
+  "tu vas bien ?": {
+    "fr": "tu vas bien ?",
+    "en": ["Are you okay?", "Everything alright?", "Feeling good?"]
+  },
+  "à bientôt": {
+    "fr": "à bientôt",
+    "en": ["See you soon", "Talk to you later", "Catch you later"]
+  },
+  "bon travail": {
+    "fr": "bon travail",
+    "en": ["Good job", "Well done", "Nice work"]
+  },
+  "prends soin de toi": {
+    "fr": "prends soin de toi",
+    "en": ["Take care", "Stay safe"]
+  },
+  "pas de souci": {
+    "fr": "pas de souci",
+    "en": ["No problem", "No worries", "It’s okay"]
+  },
+  "ravi de faire ta connaissance": {
+    "fr": "ravi de faire ta connaissance",
+    "en": ["Nice to meet you", "Pleased to meet you", "It’s a pleasure to meet you", "Glad to meet you", "Delighted to meet you"]
+  },
+  
+    "au revoir": {
+      "fr": "au revoir",
+      "en": [
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Bye"
+      ]
+    }
+  }
+  }} 
+    

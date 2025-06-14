@@ -1,0 +1,2164 @@
+{
+  "beginner": [
+    {
+      "question": "What is the English word for 'raisin'?",
+      "choices": [
+        "grape",
+        "apple",
+        "banana",
+        "fig"
+      ],
+      "answer": "grape",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'mangue'?",
+      "choices": [
+        "mango",
+        "papaya",
+        "melon",
+        "peach"
+      ],
+      "answer": "mango",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'framboise'?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'framboise'?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'tomate'?",
+      "choices": [
+        "tomato",
+        "pepper",
+        "lettuce",
+        "onion"
+      ],
+      "answer": "tomato",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oignon'?",
+      "choices": [
+        "onion",
+        "garlic",
+        "leek",
+        "shallot"
+      ],
+      "answer": "onion",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'main'?",
+      "choices": [
+        "hand",
+        "arm",
+        "leg",
+        "foot"
+      ],
+      "answer": "hand",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bras'?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'doigt'?",
+      "choices": [
+        "finger",
+        "toe",
+        "nail",
+        "hand"
+      ],
+      "answer": "finger",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for ''?",
+      "choices": [
+        "skin",
+        "hair",
+        "nails",
+        "toes"
+      ],
+      "answer": "skin",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pied'?",
+      "choices": [
+        "foot",
+        "hand",
+        "toe",
+        "knee"
+      ],
+      "answer": "foot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bouche'?",
+      "choices": [
+        "mouth",
+        "tongue",
+        "cheek",
+        "lip"
+      ],
+      "answer": "mouth",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'doigt'?",
+      "choices": [
+        "finger",
+        "toe",
+        "hand",
+        "thumb"
+      ],
+      "answer": "finger",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chat'?",
+      "choices": [
+        "cat",
+        "dog",
+        "house",
+        "bird"
+      ],
+      "answer": "cat",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'merci'?",
+      "choices": [
+        "thank you",
+        "sorry",
+        "excuse me",
+        "yes"
+      ],
+      "answer": "thank you",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9cole'?",
+      "choices": [
+        "school",
+        "university",
+        "classroom",
+        "teacher"
+      ],
+      "answer": "school",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'vacances'?",
+      "choices": [
+        "holiday",
+        "journey",
+        "trip",
+        "rest"
+      ],
+      "answer": "holiday",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'confiance'?",
+      "choices": [
+        "hope",
+        "trust",
+        "confidence",
+        "power"
+      ],
+      "answer": "confidence",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chemise'?",
+      "choices": [
+        "shirt",
+        "pants",
+        "jacket",
+        "hat"
+      ],
+      "answer": "shirt",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chapeau'?",
+      "choices": [
+        "hat",
+        "belt",
+        "coat",
+        "sock"
+      ],
+      "answer": "hat",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'robe'?",
+      "choices": [
+        "dress",
+        "coat",
+        "jacket",
+        "blouse"
+      ],
+      "answer": "dress",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'manteau'?",
+      "choices": [
+        "coat",
+        "shirt",
+        "hoodie",
+        "jacket"
+      ],
+      "answer": "coat",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for ''?",
+      "choices": [
+        "raincoat",
+        "hoodie",
+        "sweater",
+        "vest"
+      ],
+      "answer": "raincoat",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'professeur'?",
+      "choices": [
+        "teacher",
+        "principal",
+        "student",
+        "friend"
+      ],
+      "answer": "teacher",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'stylo'?",
+      "choices": [
+        "pen",
+        "pencil",
+        "ruler",
+        "marker"
+      ],
+      "answer": "pen",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'emploi du temps'?",
+      "choices": [
+        "schedule",
+        "diary",
+        "report",
+        "syllabus"
+      ],
+      "answer": "schedule",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'melancholy'?",
+      "choices": [
+        "sadness",
+        "joy",
+        "fear",
+        "anger"
+      ],
+      "answer": "sadness",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'abricot'?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'abricot'?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pomme'?",
+      "choices": [
+        "apple",
+        "banana",
+        "grape",
+        "kiwi"
+      ],
+      "answer": "apple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'avocat'?",
+      "choices": [
+        "avocado",
+        "banana",
+        "lime",
+        "papaya"
+      ],
+      "answer": "avocado",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pomme de terre'?",
+      "choices": [
+        "potato",
+        "carrot",
+        "beet",
+        "pea"
+      ],
+      "answer": "potato",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'carotte'?",
+      "choices": [
+        "carrot",
+        "parsnip",
+        "zucchini",
+        "turnip"
+      ],
+      "answer": "carrot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ananas'?",
+      "choices": [
+        "pineapple",
+        "pinapple",
+        "pineappel",
+        "pineaple"
+      ],
+      "answer": "pineapple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'fraise'?",
+      "choices": [
+        "strawberry",
+        "strawbery",
+        "strawbary",
+        "strowberry"
+      ],
+      "answer": "strawberry",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'brocoli'?",
+      "choices": [
+        "broccoli",
+        "brocoly",
+        "brokoli",
+        "broccoly"
+      ],
+      "answer": "broccoli",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'betterave'?",
+      "choices": [
+        "beetroot",
+        "beatroot",
+        "beatroat",
+        "bitroot"
+      ],
+      "answer": "beetroot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'champignon'?",
+      "choices": [
+        "mushroom",
+        "mashroom",
+        "muschroom",
+        "mouchroom"
+      ],
+      "answer": "mushroom",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'persil'?",
+      "choices": [
+        "parsley",
+        "parslay",
+        "parsly",
+        "parceley"
+      ],
+      "answer": "parsley",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'cheveux'?",
+      "choices": [
+        "hair",
+        "hare",
+        "hear",
+        "herr"
+      ],
+      "answer": "hair",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'sourcil'?",
+      "choices": [
+        "eyebrow",
+        "ankle",
+        "knee",
+        "heel"
+      ],
+      "answer": "eyebrow",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'genou'?",
+      "choices": [
+        "knee",
+        "back",
+        "head",
+        "chest"
+      ],
+      "answer": "knee",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'yeux'?",
+      "choices": [
+        "eyes",
+        "ears",
+        "mouth",
+        "skin"
+      ],
+      "answer": "eyes",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'genou'?",
+      "choices": [
+        "knee",
+        "ankle",
+        "heel",
+        "toe"
+      ],
+      "answer": "knee",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'cheville'?",
+      "choices": [
+        "ankle",
+        "heel",
+        "knee",
+        "calf"
+      ],
+      "answer": "ankle",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'poignet'?",
+      "choices": [
+        "wrist",
+        "elbow",
+        "hand",
+        "palm"
+      ],
+      "answer": "wrist",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'coude'?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "hand"
+      ],
+      "answer": "elbow",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pouce'?",
+      "choices": [
+        "thumb",
+        "finger",
+        "hand",
+        "palm"
+      ],
+      "answer": "thumb",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'yeux'?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "head"
+      ],
+      "answer": "eye",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'avant bras'?",
+      "choices": [
+        "forearm",
+        "hand",
+        "bicep",
+        "shoulder"
+      ],
+      "answer": "forearm",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'colonne vertabrales'?",
+      "choices": [
+        "spine",
+        "hip",
+        "belly",
+        "chest"
+      ],
+      "answer": "spine",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for ' apple a day keeps the doctor away'?",
+      "choices": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'I was tired ___ I went to bed'?",
+      "choices": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": "so",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'quand'?",
+      "choices": [
+        "where",
+        "when",
+        "why",
+        "how"
+      ],
+      "answer": "when",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'coton'?",
+      "choices": [
+        "cotton",
+        "wool",
+        "leather",
+        "velvet"
+      ],
+      "answer": "cotton",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'lycee'?",
+      "choices": [
+        "high school",
+        "kindergarten",
+        "college",
+        "nursery"
+      ],
+      "answer": "high school",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'not excited'?",
+      "choices": [
+        "bored",
+        "thrilled",
+        "glad",
+        "hopeful"
+      ],
+      "answer": "bored",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'relaxed'?",
+      "choices": [
+        "calm",
+        "anxious",
+        "scared",
+        "sad"
+      ],
+      "answer": "calm",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'unable to control anger'?",
+      "choices": [
+        "furious",
+        "melancholic",
+        "content",
+        "hopeful"
+      ],
+      "answer": "furious",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oignon'?",
+      "choices": [
+        "onion",
+        "leek",
+        "garlic",
+        "shallot"
+      ],
+      "answer": "onion",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'brocoli'?",
+      "choices": [
+        "broccoli",
+        "spinach",
+        "lettuce",
+        "cabbage"
+      ],
+      "answer": "broccoli",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'echarpe'?",
+      "choices": [
+        "scarf",
+        "sneakers",
+        "boots",
+        "slippers"
+      ],
+      "answer": "scarf",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'eat'?",
+      "choices": [
+        "eated",
+        "ate",
+        "eats",
+        "eaten"
+      ],
+      "answer": "ate",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'tableau'?",
+      "choices": [
+        "board",
+        "wall",
+        "window",
+        "floor"
+      ],
+      "answer": "board",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'sad'?",
+      "choices": [
+        "happy",
+        "angry",
+        "worried",
+        "bored"
+      ],
+      "answer": "happy",
+      "explanation": ""
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is the English word for 'citron'?",
+      "choices": [
+        "lemon",
+        "lime",
+        "orange",
+        "grapefruit"
+      ],
+      "answer": "lemon",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'p\u00eache'?",
+      "choices": [
+        "peach",
+        "plum",
+        "pear",
+        "apricot"
+      ],
+      "answer": "peach",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ananas'?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ananas'?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'concombre'?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pea"
+      ],
+      "answer": "cucumber",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9pinard'?",
+      "choices": [
+        "spinach",
+        "lettuce",
+        "cabbage",
+        "parsley"
+      ],
+      "answer": "spinach",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'haricot'?",
+      "choices": [
+        "bean",
+        "pea",
+        "lentil",
+        "corn"
+      ],
+      "answer": "bean",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pied'?",
+      "choices": [
+        "foot",
+        "toe",
+        "heel",
+        "leg"
+      ],
+      "answer": "foot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'jambe'?",
+      "choices": [
+        "leg",
+        "foot",
+        "knee",
+        "hip"
+      ],
+      "answer": "leg",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9paule'?",
+      "choices": [
+        "shoulder",
+        "chest",
+        "neck",
+        "arm"
+      ],
+      "answer": "shoulder",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 't\u00eate'?",
+      "choices": [
+        "head",
+        "shoulder",
+        "neck",
+        "face"
+      ],
+      "answer": "head",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oeil'?",
+      "choices": [
+        "eye",
+        "ear",
+        "eyebrow",
+        "eyelash"
+      ],
+      "answer": "eye",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bras'?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '____ is your name?'?",
+      "choices": [
+        "who",
+        "what",
+        "which",
+        "how"
+      ],
+      "answer": "what",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chien'?",
+      "choices": [
+        "rabbit",
+        "dog",
+        "fish",
+        "cat"
+      ],
+      "answer": "dog",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'maison'?",
+      "choices": [
+        "school",
+        "house",
+        "store",
+        "park"
+      ],
+      "answer": "house",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'travail'?",
+      "choices": [
+        "work",
+        "play",
+        "meeting",
+        "break"
+      ],
+      "answer": "work",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'apprentissage'?",
+      "choices": [
+        "training",
+        "learning",
+        "improving",
+        "studying"
+      ],
+      "answer": "learning",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'communication'?",
+      "choices": [
+        "language",
+        "interaction",
+        "communication",
+        "conversation"
+      ],
+      "answer": "communication",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pantalon'?",
+      "choices": [
+        "trousers",
+        "shoes",
+        "tie",
+        "cap"
+      ],
+      "answer": "trousers",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'veste'?",
+      "choices": [
+        "jacket",
+        "hoodie",
+        "sweater",
+        "t-shirt"
+      ],
+      "answer": "jacket",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chaussettes'?",
+      "choices": [
+        "socks",
+        "boots",
+        "gloves",
+        "shoes"
+      ],
+      "answer": "socks",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9l\u00e8ve'?",
+      "choices": [
+        "student",
+        "teacher",
+        "parent",
+        "classroom"
+      ],
+      "answer": "student",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'r\u00e9cr\u00e9ation'?",
+      "choices": [
+        "recess",
+        "breakfast",
+        "lesson",
+        "exam"
+      ],
+      "answer": "recess",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'orange'?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'orange'?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ananas'?",
+      "choices": [
+        "pineapple",
+        "melon",
+        "papaya",
+        "mango"
+      ],
+      "answer": "pineapple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'banane'?",
+      "choices": [
+        "banana",
+        "pear",
+        "grapefruit",
+        "orange"
+      ],
+      "answer": "banana",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'p\u00eache'?",
+      "choices": [
+        "peach",
+        "peech",
+        "pech",
+        "piche"
+      ],
+      "answer": "peach",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'banane'?",
+      "choices": [
+        "banana",
+        "bananna",
+        "bananah",
+        "bannana"
+      ],
+      "answer": "banana",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chou-fleur'?",
+      "choices": [
+        "cauliflower",
+        "coliflower",
+        "couliflower",
+        "califlower"
+      ],
+      "answer": "cauliflower",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'navet'?",
+      "choices": [
+        "turnip",
+        "ternip",
+        "tournip",
+        "tornip"
+      ],
+      "answer": "turnip",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ma\u00efs'?",
+      "choices": [
+        "corn",
+        "korn",
+        "coorn",
+        "corne"
+      ],
+      "answer": "corn",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'genou'?",
+      "choices": [
+        "knee",
+        "knie",
+        "nee",
+        "kne"
+      ],
+      "answer": "knee",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oreille'?",
+      "choices": [
+        "ears",
+        "eyes",
+        "mouth",
+        "nose"
+      ],
+      "answer": "ears",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'crane'?",
+      "choices": [
+        "skull",
+        "scalp",
+        "skin",
+        "muscle"
+      ],
+      "answer": "skull",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'poumons'?",
+      "choices": [
+        "lungs",
+        "liver",
+        "intestines",
+        "kidneys"
+      ],
+      "answer": "lungs",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'menton'?",
+      "choices": [
+        "chin",
+        "cheek",
+        "lip",
+        "nose"
+      ],
+      "answer": "chin",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ventre'?",
+      "choices": [
+        "belly",
+        "chest",
+        "back",
+        "hip"
+      ],
+      "answer": "belly",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'hanche'?",
+      "choices": [
+        "hip",
+        "waist",
+        "belly",
+        "back"
+      ],
+      "answer": "hip",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'nez'?",
+      "choices": [
+        "nose",
+        "mouth",
+        "eye",
+        "ear"
+      ],
+      "answer": "nose",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'cou'?",
+      "choices": [
+        "neck",
+        "chest",
+        "back",
+        "arm"
+      ],
+      "answer": "neck",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'menton'?",
+      "choices": [
+        "chin",
+        "nose",
+        "lip",
+        "neck"
+      ],
+      "answer": "chin",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'main'?",
+      "choices": [
+        "hand",
+        "foot",
+        "elbow",
+        "knee"
+      ],
+      "answer": "hand",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'il part a l'?",
+      "choices": [
+        "he go to school.",
+        "he goes to school.",
+        "he going to school.",
+        "he gone to school."
+      ],
+      "answer": "he goes to school.",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'elle as adopte un chien'?",
+      "choices": [
+        "she adopted an dog.",
+        "she adopted a dog.",
+        "she adopted dog.",
+        "she adopted the dog."
+      ],
+      "answer": "she adopted a dog.",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'She is smart ___ hardworking.'?",
+      "choices": [
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "answer": "and",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'echarpe'?",
+      "choices": [
+        "scarf",
+        "gloves",
+        "boots",
+        "jeans"
+      ],
+      "answer": "scarf",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'costume'?",
+      "choices": [
+        "tuxedo",
+        "shorts",
+        "t-shirt",
+        "jeans"
+      ],
+      "answer": "tuxedo",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'crayon'?",
+      "choices": [
+        "pencil",
+        "pen",
+        "crayon",
+        "color"
+      ],
+      "answer": "pencil",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'devoirs \u00e0 la maison'?",
+      "choices": [
+        "homework",
+        "exam",
+        "test",
+        "project"
+      ],
+      "answer": "homework",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'guilty'?",
+      "choices": [
+        "remorseful",
+        "happy",
+        "excited",
+        "curious"
+      ],
+      "answer": "remorseful",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'euphoria'?",
+      "choices": [
+        "intense happiness",
+        "deep anger",
+        "mild interest",
+        "complete boredom"
+      ],
+      "answer": "intense happiness",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'aubergine'?",
+      "choices": [
+        "eggplant",
+        "carrot",
+        "zucchini",
+        "lettuce"
+      ],
+      "answer": "eggplant",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'avocat'?",
+      "choices": [
+        "avocado",
+        "pepper",
+        "tomato",
+        "cucumber"
+      ],
+      "answer": "avocado",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'radis'?",
+      "choices": [
+        "radish",
+        "onion",
+        "garlic",
+        "chili"
+      ],
+      "answer": "radish",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'concombre'?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pepper"
+      ],
+      "answer": "cucumber",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ongle'?",
+      "choices": [
+        "fingernail",
+        "toe",
+        "ankle",
+        "eye"
+      ],
+      "answer": "fingernail",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'coeur'?",
+      "choices": [
+        "heart",
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "answer": "heart",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'coude'?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "fingers"
+      ],
+      "answer": "elbow",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'gants'?",
+      "choices": [
+        "gloves",
+        "socks",
+        "tie",
+        "shirt"
+      ],
+      "answer": "gloves",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'lunette de soleil'?",
+      "choices": [
+        "sunglasses",
+        "hat",
+        "scarf",
+        "cap"
+      ],
+      "answer": "sunglasses",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'examen'?",
+      "choices": [
+        "exam",
+        "homework",
+        "recess",
+        "essay"
+      ],
+      "answer": "exam",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'angry'?",
+      "choices": [
+        "mad",
+        "happy",
+        "tired",
+        "relaxed"
+      ],
+      "answer": "mad",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'nervous'?",
+      "choices": [
+        "worried",
+        "joyful",
+        "calm",
+        "bored"
+      ],
+      "answer": "worried",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for ''?",
+      "choices": [
+        "staying calm in stress",
+        "getting easily frustrated",
+        "avoiding emotions",
+        "hiding fear"
+      ],
+      "answer": "staying calm in stress",
+      "explanation": ""
+    }
+  ],
+  "advanced": [
+    {
+      "question": "What is the English word for 'fraise'?",
+      "choices": [
+        "strawberry",
+        "raspberry",
+        "blueberry",
+        "cherry"
+      ],
+      "answer": "strawberry",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'past\u00e8que'?",
+      "choices": [
+        "watermelon",
+        "melon",
+        "grapefruit",
+        "pineapple"
+      ],
+      "answer": "watermelon",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'banane'?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'banane'?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ail'?",
+      "choices": [
+        "garlic",
+        "onion",
+        "leek",
+        "ginger"
+      ],
+      "answer": "garlic",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'courgette'?",
+      "choices": [
+        "zucchini",
+        "eggplant",
+        "bean",
+        "pea"
+      ],
+      "answer": "zucchini",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'poivron'?",
+      "choices": [
+        "pepper",
+        "tomato",
+        "cucumber",
+        "zucchini"
+      ],
+      "answer": "pepper",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'nez'?",
+      "choices": [
+        "nose",
+        "ear",
+        "eye",
+        "mouth"
+      ],
+      "answer": "nose",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u0153il'?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "nose"
+      ],
+      "answer": "eye",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bouche'?",
+      "choices": [
+        "mouth",
+        "nose",
+        "eye",
+        "ear"
+      ],
+      "answer": "mouth",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oreille'?",
+      "choices": [
+        "ear",
+        "eye",
+        "mouth",
+        "cheek"
+      ],
+      "answer": "ear",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'main'?",
+      "choices": [
+        "hand",
+        "arm",
+        "foot",
+        "head"
+      ],
+      "answer": "hand",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'nez'?",
+      "choices": [
+        "nose",
+        "eye",
+        "ear",
+        "mouth"
+      ],
+      "answer": "nose",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'jambe'?",
+      "choices": [
+        "leg",
+        "arm",
+        "thigh",
+        "foot"
+      ],
+      "answer": "leg",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'genou'?",
+      "choices": [
+        "knee",
+        "leg",
+        "foot",
+        "toe"
+      ],
+      "answer": "knee",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '____ did you do that?'?",
+      "choices": [
+        "why",
+        "when",
+        "how many",
+        "what"
+      ],
+      "answer": "why",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bonjour'?",
+      "choices": [
+        "hello",
+        "goodbye",
+        "thank you",
+        "please"
+      ],
+      "answer": "hello",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'voiture'?",
+      "choices": [
+        "bike",
+        "bus",
+        "car",
+        "train"
+      ],
+      "answer": "car",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'famille'?",
+      "choices": [
+        "family",
+        "friends",
+        "team",
+        "group"
+      ],
+      "answer": "family",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'd\u00e9veloppement'?",
+      "choices": [
+        "growth",
+        "building",
+        "development",
+        "design"
+      ],
+      "answer": "development",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'compr\u00e9hension'?",
+      "choices": [
+        "understanding",
+        "learning",
+        "perception",
+        "reflection"
+      ],
+      "answer": "understanding",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chaussures'?",
+      "choices": [
+        "shoes",
+        "scarf",
+        "boots",
+        "gloves"
+      ],
+      "answer": "shoes",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'jupe'?",
+      "choices": [
+        "skirt",
+        "shirt",
+        "sock",
+        "tie"
+      ],
+      "answer": "skirt",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'cravate'?",
+      "choices": [
+        "tie",
+        "belt",
+        "hat",
+        "cap"
+      ],
+      "answer": "tie",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9cole'?",
+      "choices": [
+        "school",
+        "class",
+        "student",
+        "teacher"
+      ],
+      "answer": "school",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'livre'?",
+      "choices": [
+        "book",
+        "notebook",
+        "pen",
+        "paper"
+      ],
+      "answer": "book",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'happy'?",
+      "choices": [
+        "joyful",
+        "angry",
+        "tired",
+        "sad"
+      ],
+      "answer": "joyful",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'scared'?",
+      "choices": [
+        "afraid",
+        "happy",
+        "sleepy",
+        "calm"
+      ],
+      "answer": "afraid",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'jealous'?",
+      "choices": [
+        "envious",
+        "tired",
+        "glad",
+        "shy"
+      ],
+      "answer": "envious",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'apprehensive'?",
+      "choices": [
+        "anxious",
+        "excited",
+        "confident",
+        "carefree"
+      ],
+      "answer": "anxious",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pomme'?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pomme'?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for ''?",
+      "choices": [
+        "watermelon",
+        "apple",
+        "pear",
+        "kiwi"
+      ],
+      "answer": "watermelon",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'citron'?",
+      "choices": [
+        "lemon",
+        "leemon",
+        "lemen",
+        "limoon"
+      ],
+      "answer": "lemon",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'raisin'?",
+      "choices": [
+        "grape",
+        "greip",
+        "graip",
+        "graep"
+      ],
+      "answer": "grape",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'poireau'?",
+      "choices": [
+        "leek",
+        "lick",
+        "leack",
+        "leck"
+      ],
+      "answer": "leek",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'salade'?",
+      "choices": [
+        "lettuce",
+        "letuce",
+        "lattuce",
+        "letus"
+      ],
+      "answer": "lettuce",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'radis'?",
+      "choices": [
+        "radish",
+        "raddish",
+        "radissh",
+        "raddiche"
+      ],
+      "answer": "radish",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'bras'?",
+      "choices": [
+        "arm",
+        "leg",
+        "head",
+        "back"
+      ],
+      "answer": "arm",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'epaule'?",
+      "choices": [
+        "shoulder",
+        "nose",
+        "eyes",
+        "lips"
+      ],
+      "answer": "shoulder",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'pied'?",
+      "choices": [
+        "foot",
+        "hand",
+        "elbow",
+        "shoulder"
+      ],
+      "answer": "foot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'doigt'?",
+      "choices": [
+        "fingers",
+        "palms",
+        "toes",
+        "nails"
+      ],
+      "answer": "fingers",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'poumons'?",
+      "choices": [
+        "lungs",
+        "nose",
+        "ears",
+        "eyes"
+      ],
+      "answer": "lungs",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for '\u00e9paule'?",
+      "choices": [
+        "shoulder",
+        "neck",
+        "arm",
+        "back"
+      ],
+      "answer": "shoulder",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'dos'?",
+      "choices": [
+        "back",
+        "shoulder",
+        "spine",
+        "neck"
+      ],
+      "answer": "back",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'langue'?",
+      "choices": [
+        "tongue",
+        "mouth",
+        "lip",
+        "throat"
+      ],
+      "answer": "tongue",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'oreille'?",
+      "choices": [
+        "ear",
+        "eye",
+        "nose",
+        "head"
+      ],
+      "answer": "ear",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'genou'?",
+      "choices": [
+        "knee",
+        "ankle",
+        "thigh",
+        "toe"
+      ],
+      "answer": "knee",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'levre'?",
+      "choices": [
+        "lip",
+        "tongue",
+        "cheek",
+        "chin"
+      ],
+      "answer": "lip",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'By the time she arrived, we ____ dinner.'?",
+      "choices": [
+        "have had",
+        "had had",
+        "has had",
+        "will have"
+      ],
+      "answer": "had had",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'the'?",
+      "choices": [
+        "the mount everest is the highest mountain.",
+        "mount everest is the highest mountain.",
+        "the everest is highest mountain.",
+        "everest is highest the mountain."
+      ],
+      "answer": "mount everest is the highest mountain.",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'parce que'?",
+      "choices": [
+        "and",
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": "because",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'menteau'?",
+      "choices": [
+        "coat",
+        "shorts",
+        "sandals",
+        "cap"
+      ],
+      "answer": "coat",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'ceinture'?",
+      "choices": [
+        "belt",
+        "scarf",
+        "cap",
+        "sock"
+      ],
+      "answer": "belt",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'montre'?",
+      "choices": [
+        "watch",
+        "shirt",
+        "pants",
+        "sneakers"
+      ],
+      "answer": "watch",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'salle de classe'?",
+      "choices": [
+        "classroom",
+        "library",
+        "gym",
+        "cafeteria"
+      ],
+      "answer": "classroom",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'mathematique'?",
+      "choices": [
+        "math",
+        "history",
+        "biology",
+        "art"
+      ],
+      "answer": "math",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'carotte'?",
+      "choices": [
+        "carrot",
+        "beet",
+        "radish",
+        "pea"
+      ],
+      "answer": "carrot",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'epinards'?",
+      "choices": [
+        "spinach",
+        "onion",
+        "garlic",
+        "radish"
+      ],
+      "answer": "spinach",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'mais'?",
+      "choices": [
+        "corn",
+        "bean",
+        "lentil",
+        "pea"
+      ],
+      "answer": "corn",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'chou-fleur'?",
+      "choices": [
+        "cauliflower",
+        "cabbage",
+        "broccoli",
+        "turnip"
+      ],
+      "answer": "cauliflower",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'cou'?",
+      "choices": [
+        "neck",
+        "shoulder",
+        "back",
+        "hip"
+      ],
+      "answer": "neck",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'go'?",
+      "choices": [
+        "goed",
+        "went",
+        "goes",
+        "gone"
+      ],
+      "answer": "went",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'directeur'?",
+      "choices": [
+        "principal",
+        "professor",
+        "student",
+        "nurse"
+      ],
+      "answer": "principal",
+      "explanation": ""
+    },
+    {
+      "question": "What is the English word for 'extremely happy'?",
+      "choices": [
+        "ecstatic",
+        "tired",
+        "angry",
+        "cold"
+      ],
+      "answer": "ecstatic",
+      "explanation": ""
+    }
+  ]
+}
