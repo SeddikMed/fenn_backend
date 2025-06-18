@@ -1,3 +1,9 @@
 fastapi
 uvicorn[standard]
 # Ajoute ici toutes les autres dépendances nécessaires à ton backend
+pandas==1.5.3
+Cython>=0.29.33
+numpy
+python-dotenv
+firebase-admin
+requests

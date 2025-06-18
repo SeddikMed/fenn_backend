@@ -25,28 +25,34 @@ def initialize_firebase():
         # Vérifier si l'application est déjà initialisée
         if _app:
             return _app
-            
-        # Vérifier si les informations d'identification sont fournies en tant que variable d'environnement
+
+        # 1. Essayer d'initialiser depuis la variable d'environnement (Render, cloud, etc.)
+        firebase_creds_json = os.environ.get('FIREBASE_CREDENTIALS_JSON')
+        if firebase_creds_json:
+            logger.info("Initialisation Firebase via variable d'environnement FIREBASE_CREDENTIALS_JSON")
+            cred_dict = json.loads(firebase_creds_json)
+            cred = credentials.Certificate(cred_dict)
+            _app = firebase_admin.initialize_app(cred)
+            logger.info("Firebase initialized successfully via env var")
+            return _app
+
+        # 2. Sinon, fallback sur le fichier (pour dev/local)
         firebase_cred_path = os.getenv('FIREBASE_CREDENTIALS_PATH', 'firebase-credentials.json')
-        
-        # Résoudre le chemin absolu si nécessaire
         if not os.path.isabs(firebase_cred_path):
-            # Base path est maintenant le répertoire backend (parent de app)
             base_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
             firebase_cred_path = os.path.join(base_path, firebase_cred_path)
-        
-        # Afficher le chemin pour le débogage
+
         logger.info(f"Tentative d'accès au fichier de credentials: {firebase_cred_path}")
-        
-        # Vérifier si le fichier existe
+
         if not os.path.exists(firebase_cred_path):
             logger.error(f"Firebase credentials file not found: {firebase_cred_path}")
             raise FileNotFoundError(f"Firebase credentials file not found: {firebase_cred_path}")
-        
+
         cred = credentials.Certificate(firebase_cred_path)
         _app = firebase_admin.initialize_app(cred)
-        logger.info("Firebase initialized successfully")
+        logger.info("Firebase initialized successfully via file")
         return _app
+
     except Exception as e:
         logger.error(f"Failed to initialize Firebase: {e}")
         raise
