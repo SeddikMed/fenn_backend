@@ -28,7 +28,7 @@ logger.info("Environnement variables loaded")
 # Import du service Firebase centralisé
 try:
     logger.info("Attempting to import Firebase service with absolute import")
-    from app.services.firebase import initialize_firebase
+    from routes import auth, users, chat
 except ImportError as e:
     logger.warning(f"Absolute import failed: {e}")
     # Fallback pour les imports relatifs

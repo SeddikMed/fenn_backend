@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-from app.core.chatbot_cli import generate_menu_text, get_user_progress
+from core.chatbot_cli import generate_menu_text, get_user_progress
 from app.services.chatbot import update_user_progress
 from app.services.chatbot.chatbotfinal import (
     rule_based_correct, 

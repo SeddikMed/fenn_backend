@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from app.models.chat_models import ChatRequest, ChatResponse
+from models.chat_models import ChatRequest, ChatResponse
 from app.core.chatbot_adapter import process_api_input
 from app.core.session_manager import get_session, save_session
 import logging

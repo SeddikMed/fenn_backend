@@ -1,1 +1,1 @@
-﻿# Package backend
+﻿# Package principal de l'application
