@@ -1,0 +1,746 @@
+{
+  "salées": [
+    {
+      "nom": "Couscous traditionnel",
+      "ingredients": [
+        "Semoule moyenne",
+        "Viande (agneau ou poulet)",
+        "Pois chiches",
+        "Carottes",
+        "Courgettes",
+        "Navets",
+        "Tomates",
+        "Oignon",
+        "Huile",
+        "Smen",
+        "Sel, poivre, ras el hanout"
+      ],
+      "etapes": [
+        "1. Couper la viande en morceaux. Éplucher les légumes et les couper grossièrement.",
+        "2. Dans le bas du couscoussier, faire revenir l'oignon râpé dans l’huile et le smen.",
+        "3. Ajouter les morceaux de viande, les épices (ras el hanout, sel, poivre) et faire revenir le tout.",
+        "4. Incorporer les tomates râpées ou mixées, puis ajouter les pois chiches et couvrir d’eau.",
+        "5. Laisser mijoter à feu moyen pendant 30 à 40 minutes.",
+        "6. Ajouter les légumes (carottes, navets, courgettes) selon leur temps de cuisson.",
+        "7. Pendant ce temps, travailler la semoule à la main avec un peu d’eau et d’huile, puis la cuire à la vapeur 2 à 3 fois dans le haut du couscoussier.",
+        "8. Dresser le couscous dans un grand plat, arroser avec la sauce et disposer les légumes et la viande sur le dessus."
+      ],
+      "ingredients_en": [
+        "Medium semolina",
+        "Meat (lamb or chicken)",
+        "Chickpeas",
+        "Carrots",
+        "Zucchinis",
+        "Turnips",
+        "Tomatoes",
+        "Onion",
+        "Oil",
+        "Clarified butter",
+        "Salt, pepper, ras el hanout"
+      ],
+      "etapes_en": [
+        "1. Cut the meat into pieces. Peel and chop the vegetables roughly.",
+        "2. In the bottom of the couscoussier, sauté grated onion in oil and clarified butter.",
+        "3. Add meat pieces, spices (ras el hanout, salt, pepper) and brown well.",
+        "4. Stir in grated or blended tomatoes, add chickpeas and cover with water.",
+        "5. Simmer over medium heat for 30 to 40 minutes.",
+        "6. Add the vegetables (carrots, turnips, zucchinis) as needed based on cooking time.",
+        "7. Prepare the semolina by moistening it with water and oil, steam it 2-3 times.",
+        "8. Serve the semolina in a large dish, drizzle with sauce, arrange vegetables and meat on top."
+      ]
+    },
+    {
+      "nom": "Tajine Zitoun",
+      "ingredients": [
+        "Blanc de poulet",
+        "Olives vertes dénoyautées",
+        "Oignon",
+        "Citron confit (facultatif)",
+        "Carottes",
+        "Huile, smen",
+        "Sel, poivre, curcuma"
+      ],
+      "etapes": [
+        "1. Faire bouillir les olives 2 fois dans l’eau pour les dessaler.",
+        "2. Dans une cocotte, faire revenir l'oignon émincé dans l'huile et le smen.",
+        "3. Ajouter les morceaux de blanc de poulet, saler, poivrer et saupoudrer de curcuma.",
+        "4. Couvrir avec un petit verre d’eau et laisser mijoter 20 minutes.",
+        "5. Ajouter les carottes coupées en bâtonnets et les olives.",
+        "6. Poursuivre la cuisson jusqu’à tendreté des carottes et réduction de la sauce.",
+        "7. Ajouter des rondelles de citron confit en fin de cuisson pour parfumer le plat."
+      ],
+      "ingredients_en": [
+        "Chicken breast",
+        "Pitted green olives",
+        "Onion",
+        "Preserved lemon (optional)",
+        "Carrots",
+        "Oil, clarified butter",
+        "Salt, pepper, turmeric"
+      ],
+      "etapes_en": [
+        "1. Boil the olives twice in water to remove excess salt.",
+        "2. In a pot, sauté the sliced onion in oil and clarified butter.",
+        "3. Add chicken breast pieces, season with salt, pepper, turmeric.",
+        "4. Cover with water and simmer for 20 minutes.",
+        "5. Add sliced carrots and olives.",
+        "6. Cook until carrots are tender and sauce reduced.",
+        "7. Optionally add preserved lemon slices for extra flavor."
+      ]
+    },
+    {
+      "nom": "Hrira",
+      "ingredients": [
+        "Viande d'agneau",
+        "Lentilles, pois chiches",
+        "Céleri, coriandre, persil",
+        "Concentré de tomate",
+        "Farine ou levure pour la 'tadouira'",
+        "Oignons, tomates",
+        "Beurre ou smen",
+        "Sel, poivre, curcuma, gingembre"
+      ],
+      "etapes": [
+        "1. Faire revenir la viande avec l’oignon, les tomates et les épices dans le smen.",
+        "2. Ajouter les lentilles, pois chiches, et les herbes finement hachées.",
+        "3. Couvrir d'eau et laisser mijoter jusqu'à cuisson des légumes secs.",
+        "4. Préparer la tadouira (mélange d'eau et farine) et l'ajouter à la soupe en fin de cuisson.",
+        "5. Laisser épaissir la hrira en remuant. Servir chaud avec citron."
+      ],
+      "ingredients_en": [
+        "Lamb",
+        "Lentils, chickpeas",
+        "Celery, coriander, parsley",
+        "Tomato paste",
+        "Flour or yeast for the 'tadouira'",
+        "Onions, tomatoes",
+        "Butter or smen",
+        "Salt, pepper, turmeric, ginger"
+      ],
+       "etapes_en": [
+        "1. Boil the olives twice in water to remove excess salt.",
+        "2. In a pot, sauté the sliced onion in oil and clarified butter.",
+        "3. Add chicken breast pieces, season with salt, pepper, turmeric.",
+        "4. Cover with water and simmer for 20 minutes.",
+        "5. Add sliced carrots and olives.",
+        "6. Cook until carrots are tender and sauce reduced.",
+        "7. Optionally add preserved lemon slices for extra flavor."
+      ],
+       "ingredients_en": [
+        "1. Brown the meat with the onion, tomatoes, and spices in the smen.",
+        "2. Add the lentils, chickpeas, and finely chopped herbs.",
+        "3. Cover with water and simmer until the legumes are cooked.",
+        "4. Prepare the tadouira (a mixture of water and flour) and add it to the soup at the end of cooking.",
+         "5. Let the hrira thicken while stirring. Serve hot with lemon."
+      ]
+      
+    },
+    {
+      "nom": "Mtewem",
+      "ingredients": [
+        "Viande d’agneau",
+        "Ail en purée",
+        "Pois chiches",
+        "Huile ou smen",
+        "Paprika, sel, poivre",
+        "Piment (optionnel)"
+      ],
+      "etapes": [
+        "1. Dans une marmite, faire revenir la viande avec l’ail pilé et les épices.",
+        "2. Ajouter les pois chiches trempés et couvrir d’eau.",
+        "3. Cuire à feu doux jusqu'à tendreté de la viande.",
+        "4. Servir avec du pain maison ou kesra."
+      ],
+       "ingredients_en": [
+       "Lamb",
+       "Garlic purée",
+       "Chickpeas",
+       "Oil or smen",
+       "Paprika, salt, pepper",
+       "Chili pepper (optional)"
+      ],
+      "etapes_en": [
+        "1. In a pot, brown the meat with crushed garlic and spices.",
+        "2. Add the soaked chickpeas and cover with water.",
+        "3. Cook over low heat until the meat is tender.",
+        "4. Serve with homemade bread or kesra."
+      ]
+    },
+    {
+      "nom": "Mhadjeb",
+      "ingredients": [
+        "Semoule fine",
+        "Oignons",
+        "Tomates",
+        "Poivrons",
+        "Sel, eau, huile"
+      ],
+      "etapes": [
+        "1. Préparer une pâte souple avec la semoule, sel et eau, pétrir longuement.",
+        "2. Laisser reposer pendant que vous préparez la farce : faire revenir les oignons, tomates et poivrons avec de l'huile et du sel.",
+        "3. Étaler la pâte très finement, déposer la farce et replier en carré.",
+        "4. Cuire des deux côtés sur une plaque chaude ou poêle antiadhésive."
+      ],
+       "ingredients_en": [
+        "Fine semolina",
+        "Onions",
+        "Tomatoes",
+        "Peppers",
+       "Salt, water, oil"
+      ],
+        "etapes_en": [
+      "1. Prepare a soft dough with the semolina, salt, and water. Knead thoroughly.",
+      "2. Let rest while you prepare the filling: sauté the onions, tomatoes, and peppers with oil and salt.",
+      "3. Roll out the dough very thinly, add the filling, and fold into a square.",
+      "4. Cook on both sides on a hot griddle or nonstick pan."
+     ]
+    },
+    
+    {
+      "nom": "Tchaktchouka",
+      "ingredients": [
+        "3 poivrons",
+        "2 tomates",
+        "1 oignon",
+        "2 gousses d'ail",
+        "huile d'olive",
+        "sel",
+        "poivre",
+        "œufs"
+      ],
+      "ingredients_en": [
+        "3 bell peppers",
+        "2 tomatoes",
+        "1 onion",
+        "2 garlic cloves",
+        "olive oil",
+        "salt",
+        "pepper",
+        "eggs"
+      ],
+      "etapes": [
+        "Griller les poivrons puis les éplucher.",
+        "Faire revenir l'oignon et l'ail dans l'huile.",
+        "Ajouter les tomates pelées et coupées.",
+        "Ajouter les poivrons coupés en lanières.",
+        "Laisser mijoter.",
+        "Casser les œufs par-dessus et couvrir jusqu’à cuisson."
+      ],
+      "etapes_en": [
+        "Grill the peppers and peel them.",
+        "Sauté the onion and garlic in oil.",
+        "Add peeled and chopped tomatoes.",
+        "Add sliced peppers.",
+        "Let simmer.",
+        "Crack eggs on top and cover until cooked."
+      ]
+    },
+    {
+      "nom": "Couscous algérien",
+      "ingredients": [
+        "500g de semoule de couscous",
+        "1 oignon",
+        "2 carottes",
+        "2 courgettes",
+        "1 navet",
+        "pois chiches",
+        "agneau ou poulet",
+        "huile",
+        "ras el hanout",
+        "sel",
+        "poivre"
+      ],
+      "ingredients_en": [
+        "500g couscous semolina",
+        "1 onion",
+        "2 carrots",
+        "2 zucchinis",
+        "1 turnip",
+        "chickpeas",
+        "lamb or chicken",
+        "oil",
+        "ras el hanout spice mix",
+        "salt",
+        "pepper"
+      ],
+      "etapes": [
+        "Faire revenir la viande avec l'oignon dans l’huile.",
+        "Ajouter les légumes, les pois chiches et les épices.",
+        "Couvrir d’eau et laisser cuire.",
+        "Préparer la semoule à la vapeur (2 fois).",
+        "Servir la semoule avec la sauce et les légumes."
+      ],
+      "etapes_en": [
+        "Brown the meat with onion in oil.",
+        "Add vegetables, chickpeas, and spices.",
+        "Cover with water and cook.",
+        "Steam the couscous semolina (twice).",
+        "Serve semolina with sauce and vegetables."
+      ]
+    },
+    {
+      "nom": "Karantika",
+      "ingredients": [
+        "250g de farine de pois chiche",
+        "1 litre d'eau",
+        "4 œufs",
+        "100 ml d'huile",
+        "1 cuillère à café de cumin",
+        "sel",
+        "poivre"
+      ],
+      "ingredients_en": [
+        "250g chickpea flour",
+        "1 liter water",
+        "4 eggs",
+        "100 ml oil",
+        "1 teaspoon cumin",
+        "salt",
+        "pepper"
+      ],
+      "etapes": [
+        "Mélanger la farine de pois chiche avec l'eau.",
+        "Ajouter les œufs, l'huile, le sel, le poivre et le cumin.",
+        "Bien fouetter jusqu’à obtenir une pâte homogène.",
+        "Verser dans un plat huilé.",
+        "Cuire au four à 200°C pendant environ 45 minutes."
+      ],
+      "etapes_en": [
+        "Mix the chickpea flour with water.",
+        "Add eggs, oil, salt, pepper, and cumin.",
+        "Whisk well until smooth.",
+        "Pour into a greased baking dish.",
+        "Bake at 200°C for about 45 minutes."
+      ]
+    },
+    {
+      "nom": "Rechta algéroise",
+      "ingredients": [
+        "500g de rechta (pâtes fines maison)",
+        "1 poulet",
+        "2 oignons",
+        "pois chiches",
+        "2 navets",
+        "huile",
+        "cannelle",
+        "sel",
+        "poivre"
+      ],
+      "ingredients_en": [
+        "500g rechta (fine homemade noodles)",
+        "1 chicken",
+        "2 onions",
+        "chickpeas",
+        "2 turnips",
+        "oil",
+        "cinnamon",
+        "salt",
+        "pepper"
+      ],
+      "etapes": [
+        "Faire revenir le poulet avec l’oignon, l’huile, le sel, le poivre et la cannelle.",
+        "Ajouter les pois chiches et les navets.",
+        "Couvrir d’eau et laisser cuire.",
+        "Cuire la rechta à la vapeur deux fois.",
+        "Mélanger la rechta avec la sauce et servir."
+      ],
+      "etapes_en": [
+        "Brown the chicken with onion, oil, salt, pepper and cinnamon.",
+        "Add chickpeas and turnips.",
+        "Cover with water and cook.",
+        "Steam the rechta noodles twice.",
+        "Mix rechta with sauce and serve."
+      ]
+    },
+    {
+      "nom": "Dolma de courgettes",
+      "ingredients": [
+        "6 courgettes",
+        "300g de viande hachée",
+        "1 oignon",
+        "1 œuf",
+        "persil",
+        "riz",
+        "huile",
+        "sel",
+        "poivre",
+        "cannelle"
+      ],
+      "ingredients_en": [
+        "6 zucchinis",
+        "300g minced meat",
+        "1 onion",
+        "1 egg",
+        "parsley",
+        "rice",
+        "oil",
+        "salt",
+        "pepper",
+        "cinnamon"
+      ],
+      "etapes": [
+        "Vider les courgettes.",
+        "Préparer une farce avec la viande, le riz, l'œuf, le persil, le sel et le poivre.",
+        "Farcir les courgettes avec ce mélange.",
+        "Préparer une sauce avec l’oignon, l’huile, le sel et la cannelle.",
+        "Cuire les courgettes farcies dans la sauce à feu doux."
+      ],
+      "etapes_en": [
+        "Hollow out the zucchinis.",
+        "Prepare a stuffing with meat, rice, egg, parsley, salt and pepper.",
+        "Stuff the zucchinis with the mixture.",
+        "Prepare a sauce with onion, oil, salt and cinnamon.",
+        "Cook the stuffed zucchinis in the sauce over low heat."
+      ]
+    }
+  ],
+  "sucrées": [
+    {
+      "nom": "Makrout louz",
+      "ingredients": [
+        "Amandes moulues",
+        "Sucre",
+        "Blanc d’œuf",
+        "Zeste de citron",
+        "Eau de fleur d’oranger",
+        "Sucre glace"
+      ],
+      "etapes": [
+        "1. Mélanger les amandes moulues avec le sucre et le zeste de citron.",
+        "2. Ajouter progressivement le blanc d'œuf pour former une pâte malléable.",
+        "3. Façonner des boudins de pâte puis couper en losanges réguliers.",
+        "4. Les disposer sur une plaque chemisée et faire cuire au four à 160°C pendant 10-15 minutes.",
+        "5. Une fois refroidis, les rouler délicatement dans le sucre glace.",
+        "6. Conserver dans une boîte hermétique."
+      ],
+      "ingredients_en": [
+        "Ground almonds",
+        "Sugar",
+        "Egg white",
+        "Lemon zest",
+        "Orange blossom water",
+        "Icing sugar"
+      ],
+      "etapes_en": [
+        "1. Mix ground almonds with sugar and lemon zest.",
+        "2. Gradually add egg white to form a pliable dough.",
+        "3. Shape into logs and cut into diamonds.",
+        "4. Place on baking tray and bake at 160°C for 10-15 min.",
+        "5. Once cooled, coat in icing sugar.",
+        "6. Store in an airtight container."
+      ]
+    },
+    {
+      "nom": "Kalb el louz",
+      "ingredients": [
+        "Semoule moyenne",
+        "Beurre fondu",
+        "Sucre",
+        "Eau de fleur d’oranger",
+        "Amandes (ou cacahuètes grillées)",
+        "Miel"
+      ],
+      "etapes": [
+        "1. Mélanger la semoule avec le sucre et le beurre fondu dans une grande bassine.",
+        "2. Laisser reposer le mélange pendant quelques heures (idéalement 4 heures ou toute une nuit).",
+        "3. Arroser avec un peu d’eau de fleur d’oranger jusqu’à ce que le mélange puisse s’étaler dans un moule.",
+        "4. Presser la moitié du mélange dans un moule huilé, ajouter une couche d’amandes concassées ou cacahuètes.",
+        "5. Recouvrir du reste de semoule, bien tasser et découper des losanges avant cuisson.",
+        "6. Enfourner à 180°C pendant environ 45 minutes jusqu’à ce que la surface soit bien dorée.",
+        "7. À la sortie du four, arroser généreusement de miel chaud parfumé à la fleur d’oranger.",
+        "8. Laisser imbiber et refroidir avant de servir."
+      ],
+      "ingredients_en": [
+        "Medium semolina",
+        "Melted butter",
+        "Sugar",
+        "Orange blossom water",
+        "Almonds (or toasted peanuts)",
+        "Honey"
+      ],
+      "etapes_en": [
+        "1. Mix semolina with sugar and melted butter in a large bowl.",
+        "2. Let rest for several hours (ideally 4h or overnight).",
+        "3. Sprinkle with orange blossom water and spread half in a greased baking pan.",
+        "4. Add a layer of chopped almonds or peanuts.",
+        "5. Cover with remaining semolina and press down firmly.",
+        "6. Precut into diamonds and bake at 180°C for 45 minutes until golden.",
+        "7. Pour warm honey over hot cake out of the oven.",
+        "8. Let absorb and cool before serving."
+      ]
+    },
+    {
+      "nom": "Beghrir",
+      "ingredients": [
+        "Semoule fine",
+        "Farine",
+        "Levure boulangère",
+        "Levure chimique",
+        "Eau tiède",
+        "Sel"
+      ],
+      "etapes": [
+        "1. Mixer tous les ingrédients jusqu'à obtention d'une pâte lisse.",
+        "2. Laisser reposer environ 30 minutes dans un endroit tiède.",
+        "3. Cuire dans une poêle antiadhésive sans huile, uniquement sur une face.",
+        "4. Servir chaud avec un mélange beurre fondu + miel."
+      ],
+      "ingredients_en": [
+        "Fine semolina",
+        "Flour",
+        "Baker's yeast",
+        "Baking powder",
+        "Lukewarm water",
+        "Salt"
+      ],
+      "etapes_en": [
+        "1. Blend all ingredients until smooth.",
+        "2. Let stand for about 30 minutes in a warm place.",
+        "3. Cook in a non-stick pan without oil, on one side only.",
+        "4. Serve hot with a mixture of melted butter and honey."
+      ]
+    },
+    {
+      "nom": "Tamina",
+      "ingredients": [
+        "Semoule grillée",
+        "Miel",
+        "Beurre",
+        "Cannelle"
+      ],
+      "etapes": [
+        "1. Faire fondre le beurre dans une casserole.",
+        "2. Y ajouter la semoule grillée en remuant jusqu'à bonne absorption.",
+        "3. Incorporer le miel chaud selon la consistance désirée.",
+        "4. Étaler dans un plat, lisser et décorer avec cannelle ou amandes."
+      ]
+    },
+    {
+      "nom": "Besboussa",
+      "ingredients": [
+        "Semoule fine",
+        "Yaourt nature",
+        "Sucre",
+        "Œufs",
+        "Levure",
+        "Huile",
+        "Eau de fleur d’oranger",
+        "Sirop (sucre + eau + citron)"
+      ],
+      "etapes": [
+        "1. Mélanger semoule, sucre, yaourt, œufs, levure et huile.",
+        "2. Verser dans un moule beurré et enfourner à 180°C jusqu’à cuisson.",
+        "3. Arroser avec le sirop tiède dès la sortie du four.",
+        "4. Laisser absorber et refroidir avant de couper en parts."
+      ],
+      "ingredients_en": [
+        "Fine semolina",
+        "Plain yogurt",
+        "Sugar",
+        "eggs",
+        "yeast",
+        "oil",
+        "Orange blossom water",
+        "Syrup (sugar, water, lemon)"
+      ],
+      "etapes_en": [
+        "1. Mix semolina, sugar, yogurt, eggs, yeast, and oil.",
+        "2. Pour into a buttered mold and bake at 180°C until cooked through.",
+        "3. Drizzle with the warm syrup as soon as it comes out of the oven.",
+        "4. Let it absorb and cool before cutting into pieces."
+      ]
+    },
+    {
+      "nom": "Makrout",
+      "ingredients": [
+        "500g de semoule moyenne",
+        "150g de dattes dénoyautées",
+        "50g de beurre fondu",
+        "eau de fleur d'oranger",
+        "huile pour friture",
+        "miel"
+      ],
+      "ingredients_en": [
+        "500g medium semolina",
+        "150g pitted dates",
+        "50g melted butter",
+        "orange blossom water",
+        "oil for frying",
+        "honey"
+      ],
+      "etapes": [
+        "Préparer une pâte avec la semoule, le beurre et l’eau de fleur d’oranger.",
+        "Faire une farce avec les dattes écrasées.",
+        "Former des boudins farcis et découper en losanges.",
+        "Faire frire puis tremper dans le miel."
+      ],
+      "etapes_en": [
+        "Make a dough with semolina, butter, and orange blossom water.",
+        "Prepare a filling with mashed dates.",
+        "Form logs, fill with dates, and cut into diamond shapes.",
+        "Fry and dip in honey."
+      ]
+    },
+    {
+      "nom": "Kalb el louz",
+      "ingredients": [
+        "500g de semoule moyenne",
+        "200g de sucre",
+        "100g d'amandes concassées",
+        "beurre fondu",
+        "eau de fleur d'oranger",
+        "eau",
+        "miel"
+      ],
+      "ingredients_en": [
+        "500g medium semolina",
+        "200g sugar",
+        "100g crushed almonds",
+        "melted butter",
+        "orange blossom water",
+        "water",
+        "honey"
+      ],
+      "etapes": [
+        "Mélanger la semoule, le sucre, le beurre fondu et un peu d’eau de fleur d’oranger.",
+        "Laisser reposer puis étaler dans un plat beurré.",
+        "Parsemer d’amandes, recouvrir d’une autre couche de pâte.",
+        "Cuire au four et arroser de miel à la sortie."
+      ],
+      "etapes_en": [
+        "Mix semolina, sugar, melted butter, and some orange blossom water.",
+        "Let rest, then spread in a greased tray.",
+        "Sprinkle almonds and cover with another layer.",
+        "Bake and pour honey after baking."
+      ]
+    },
+    {
+      "nom": "Zlabia",
+      "ingredients": [
+        "250g de farine",
+        "1 cuillère à soupe de maïzena",
+        "levure boulangère",
+        "eau tiède",
+        "huile pour friture",
+        "miel"
+      ],
+      "ingredients_en": [
+        "250g flour",
+        "1 tbsp cornstarch",
+        "yeast",
+        "warm water",
+        "oil for frying",
+        "honey"
+      ],
+      "etapes": [
+        "Préparer une pâte fluide avec la farine, la maïzena, la levure et l’eau.",
+        "Laisser reposer jusqu’à ce qu’elle double de volume.",
+        "Former des spirales avec une poche à douille.",
+        "Faire frire puis tremper dans le miel chaud."
+      ],
+      "etapes_en": [
+        "Prepare a smooth batter with flour, cornstarch, yeast, and water.",
+        "Let it rise until it doubles in size.",
+        "Form spirals with a piping bag.",
+        "Fry and dip in hot honey."
+      ]
+    },
+    {
+      "nom": "Tcharek el ariane",
+      "ingredients": [
+        "500g de farine",
+        "250g de beurre fondu",
+        "eau de fleur d'oranger",
+        "300g de poudre d'amande",
+        "150g de sucre glace"
+      ],
+      "ingredients_en": [
+        "500g flour",
+        "250g melted butter",
+        "orange blossom water",
+        "300g almond powder",
+        "150g icing sugar"
+      ],
+      "etapes": [
+        "Préparer la pâte avec la farine, le beurre et l’eau de fleur d’oranger.",
+        "Former des boules avec la farce (amande + sucre).",
+        "Étaler la pâte, découper des cercles, garnir et refermer en croissant.",
+        "Cuire au four et saupoudrer de sucre glace."
+      ],
+      "etapes_en": [
+        "Prepare the dough with flour, butter, and orange blossom water.",
+        "Form almond-sugar balls for the filling.",
+        "Roll out dough, cut into circles, fill and shape into crescents.",
+        "Bake and sprinkle with icing sugar."
+      ]
+    },
+    {
+      "nom": "Griwech",
+      "ingredients": [
+        "500g de farine",
+        "1 œuf",
+        "2 cuillères à soupe de beurre fondu",
+        "1 cuillère à soupe de vinaigre",
+        "eau de fleur d'oranger",
+        "huile pour friture",
+        "miel",
+        "graines de sésame"
+      ],
+      "ingredients_en": [
+        "500g flour",
+        "1 egg",
+        "2 tbsp melted butter",
+        "1 tbsp vinegar",
+        "orange blossom water",
+        "oil for frying",
+        "honey",
+        "sesame seeds"
+      ],
+      "etapes": [
+        "Préparer une pâte lisse avec tous les ingrédients sauf miel et sésame.",
+        "Laisser reposer puis découper en lanières et former les formes typiques.",
+        "Faire frire jusqu’à dorure.",
+        "Tremper dans le miel chaud et parsemer de sésame."
+      ],
+      "etapes_en": [
+        "Make a smooth dough with all ingredients except honey and sesame.",
+        "Let rest, cut into strips and shape traditionally.",
+        "Fry until golden.",
+        "Dip in warm honey and sprinkle with sesame seeds."
+      ]
+    },
+    {
+      "nom": "Mhancha (serpent)",
+      "ingredients": [
+        "feuilles de dioul ou filo",
+        "500g de poudre d’amandes",
+        "200g de sucre",
+        "zeste de citron",
+        "eau de fleur d’oranger",
+        "beurre fondu",
+        "miel"
+      ],
+      "ingredients_en": [
+        "dioul or filo sheets",
+        "500g almond powder",
+        "200g sugar",
+        "lemon zest",
+        "orange blossom water",
+        "melted butter",
+        "honey"
+      ],
+      "etapes": [
+        "Préparer une farce avec les amandes, le sucre, le zeste et la fleur d’oranger.",
+        "Mettre la farce dans les feuilles de dioul et rouler en long boudin.",
+        "Enrouler comme un serpent dans un moule beurré.",
+        "Cuire au four et napper de miel chaud."
+      ],
+      "etapes_en": [
+        "Make a filling with almonds, sugar, zest and orange blossom water.",
+        "Place in dioul sheets and roll into a long rope.",
+        "Coil like a snake in a buttered pan.",
+        "Bake and cover with warm honey."
+      ]
+    }
+  ]
+}

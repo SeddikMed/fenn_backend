@@ -1,0 +1,18 @@
+{
+  "default_beginner": [
+    "Which one is a joint?",
+    "What is 'chemise' in English?",
+    "Which vegetable is known for its strong smell and layered structure?",
+    "Comment dit-on 'doigt' en anglais ?",
+    "Comment dit-on 'avant bras' en anglais ?",
+    "Comment dit-on 'framboise' en anglais ?"
+  ],
+  "default_advanced": [
+    "Comment dit-on 'poumons' en anglais ?",
+    "Comment dit-on 'poireau' en anglais ?",
+    "Comment dit-on 'dos' en anglais ?",
+    "Comment dit-on '____ did you do that?' en anglais ?",
+    "Comment dit-on 'salade' en anglais ?"
+  ],
+  "default_intermediate": []
+}

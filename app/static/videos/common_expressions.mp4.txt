@@ -1,0 +1,25 @@
+Cette vidéo explique les expressions courantes en anglais et les erreurs typiques à éviter.
+
+Expressions correctes vs incorrectes:
+
+1. "I agree" (✓) vs "I am agree" (✗)
+   - Correct: I agree with you.
+   - Incorrect: I am agree with you.
+   - Explication: "Agree" est un verbe, pas un adjectif.
+
+2. "I am interested" (✓) vs "I am interesting" (✗)
+   - Correct: I am interested in this book.
+   - Incorrect: I am interesting in this book.
+   - Explication: "Interested" (intéressé) vs "Interesting" (intéressant)
+
+3. "I am hungry" (✓) vs "I have hungry" (✗)
+   - Correct: I am hungry.
+   - Incorrect: I have hungry.
+   - Explication: Les états physiques utilisent généralement "to be"
+
+4. "I am 30 years old" (✓) vs "I have 30 years" (✗)
+   - Correct: I am 30 years old.
+   - Incorrect: I have 30 years.
+   - Explication: En anglais, on "est" un âge, on ne le "possède" pas.
+
+Ces erreurs sont fréquentes pour les francophones car elles correspondent à des traductions littérales du français. 

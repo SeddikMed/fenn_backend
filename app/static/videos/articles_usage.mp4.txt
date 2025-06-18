@@ -1,0 +1,25 @@
+Cette vidéo explique l'utilisation des articles en anglais.
+
+Les trois types d'articles en anglais:
+
+1. Article indéfini: "a" / "an"
+   - Utilisé pour parler d'une chose non spécifique
+   - "a" devant les consonnes: a book, a student, a university
+   - "an" devant les voyelles (son): an apple, an hour, an elephant
+
+2. Article défini: "the"
+   - Utilisé pour parler de quelque chose de spécifique
+   - Exemple: the book on the table (ce livre précis)
+   - Utilisé pour les choses uniques: the sun, the moon
+
+3. Pas d'article (Ø)
+   - Pour les noms pluriels généraux: I like apples
+   - Pour les noms indénombrables généraux: I drink water
+   - Pour les noms propres: Paris is beautiful
+
+Erreurs courantes:
+- Oublier l'article: "I am student" (incorrect) → "I am a student" (correct)
+- Utiliser "a" au lieu de "an": "a apple" (incorrect) → "an apple" (correct)
+- Utiliser "the" quand ce n'est pas nécessaire: "The life is beautiful" (incorrect) → "Life is beautiful" (correct)
+
+En français, on dit "Je suis étudiant" sans article, mais en anglais l'article est obligatoire: "I am a student". 

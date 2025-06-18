@@ -1,0 +1,18 @@
+Vidéo sur l'utilisation des articles :
+
+Articles en anglais :
+- "a" : utilisé avant un nom singulier commençant par une consonne (ex: a book, a student)
+- "an" : utilisé avant un nom singulier commençant par une voyelle (ex: an apple, an egg)
+- "the" : utilisé pour parler de quelque chose de spécifique (ex: the car, the house)
+
+Règles importantes :
+- Utilisez toujours un article avant un nom commun singulier
+- "I am a student" (PAS "I am student")
+- "She is an engineer" (PAS "She is engineer")
+- "He bought a car" (PAS "He bought car")
+- "This is the book I was talking about" (spécifique)
+
+Exceptions :
+- Pas d'article pour les noms propres : "Paris is beautiful" (PAS "The Paris")
+- Pas d'article pour parler de choses en général au pluriel : "Dogs are friendly"
+- Pas d'article pour les noms indénombrables en général : "Water is essential" 

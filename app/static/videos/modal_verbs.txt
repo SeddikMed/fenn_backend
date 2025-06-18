@@ -1,0 +1,13 @@
+Vidéo sur les verbes modaux :
+
+Règles pour les verbes modaux (can, could, may, might, must, will, would, shall, should) :
+- Utilisez la forme base du verbe après un modal (sans "to")
+- Les verbes modaux n'ont pas de conjugaison (pas de -s à la 3e personne)
+- Pas de "do/does/did" dans les questions ou négations
+
+Exemples corrects :
+- I can swim (PAS "I can to swim")
+- She must go (PAS "She must to go")
+- They would help (PAS "They would to help")
+- Can you drive? (PAS "Do you can drive?")
+- He should not worry (PAS "He shouldn't to worry") 

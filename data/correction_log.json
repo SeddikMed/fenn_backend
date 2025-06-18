@@ -1,0 +1,36 @@
+{
+  "QY62HyjdinRgrCysZshFcaYUR3I2": [
+    {
+      "original": "i has a book",
+      "corrected": {
+        "original": "i has a book",
+        "corrected": "I have a book",
+        "explanations": [
+          "'I' prend 'have', pas 'has'."
+        ]
+      }
+    },
+    {
+      "original": "she go to school every day",
+      "corrected": {
+        "original": "she go to school every day",
+        "corrected": "she goes to school every day",
+        "explanations": [
+          "'She' prend 'goes' au présent simple."
+        ]
+      }
+    },
+    {
+      "original": "i has a book",
+      "corrected": "I have a book"
+    },
+    {
+      "original": "i has a book",
+      "corrected": "I have a book"
+    },
+    {
+      "original": "i has a book",
+      "corrected": "I have a book"
+    }
+  ]
+}

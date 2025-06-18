@@ -1,0 +1,81 @@
+{
+  "default": [
+    {
+      "question": "Comment dit-on 'poumons' en anglais ?",
+      "choices": [
+        "nose",
+        "lungs",
+        "ears",
+        "eyes"
+      ],
+      "answer": "lungs",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on 'poireau' en anglais ?",
+      "choices": [
+        "lick",
+        "leek",
+        "leck",
+        "leack"
+      ],
+      "answer": "leek",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on 'dos' en anglais ?",
+      "choices": [
+        "neck",
+        "spine",
+        "back",
+        "shoulder"
+      ],
+      "answer": "back",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on '____ did you do that?' en anglais ?",
+      "choices": [
+        "How many",
+        "What",
+        "When",
+        "Why"
+      ],
+      "answer": "Why",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on 'salade' en anglais ?",
+      "choices": [
+        "lattuce",
+        "letus",
+        "letuce",
+        "lettuce"
+      ],
+      "answer": "lettuce",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on 'avant bras' en anglais ?",
+      "choices": [
+        "forearm",
+        "bicep",
+        "shoulder",
+        "hand"
+      ],
+      "answer": "forearm",
+      "lang": "fr"
+    },
+    {
+      "question": "Comment dit-on 'framboise' en anglais ?",
+      "choices": [
+        "currant",
+        "blackberry",
+        "strawberry",
+        "raspberry"
+      ],
+      "answer": "raspberry",
+      "lang": "fr"
+    }
+  ]
+}

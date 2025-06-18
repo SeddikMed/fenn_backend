@@ -1,0 +1,15 @@
+Vidéo de conjugaison des pronoms :
+
+Règles :
+- "I" utilise "have" (jamais "has")
+- "He/She/It" utilise "has" (avec un 's')
+- "You/We/They" utilisent "have" (sans 's')
+
+Exemples :
+- I have a book
+- He has a car
+- She has a house
+- It has four legs
+- We have time
+- You have many friends
+- They have a meeting 

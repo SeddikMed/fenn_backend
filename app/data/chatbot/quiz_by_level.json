@@ -1,0 +1,233 @@
+{
+  "beginner": [
+    {
+      "question": "Comment dit-on 'bonjour' en anglais?",
+      "choices": ["Hello", "Goodbye", "Thank you", "Sorry"],
+      "answer": "Hello",
+      "explanation": "Hello est la salutation standard en anglais.",
+      "dz": {
+        "question": "كيفاش نقولو 'bonjour' بالإنجليزية؟",
+        "explanation": "Hello هي التحية القياسية بالإنجليزية."
+      }
+    },
+    {
+      "question": "Quelle est la traduction de 'Je m'appelle Jean'?",
+      "choices": ["I call Jean", "My name is Jean", "I am called Jean", "I have name Jean"],
+      "answer": "My name is Jean",
+      "explanation": "La formule standard pour se présenter est 'My name is...'",
+      "dz": {
+        "question": "كيفاش نترجمو 'Je m'appelle Jean' للإنجليزية؟",
+        "explanation": "الصيغة القياسية للتقديم هي 'My name is...'"
+      }
+    },
+    {
+      "question": "Complétez: 'She ___ a student.'",
+      "choices": ["are", "am", "is", "be"],
+      "answer": "is",
+      "explanation": "On utilise 'is' avec he/she/it.",
+      "dz": {
+        "question": "كمل الجملة: 'She ___ a student.'",
+        "explanation": "كنستعملو 'is' مع الضمائر he/she/it."
+      }
+    },
+    {
+      "question": "Comment dit-on 'raisin' en anglais ?",
+      "choices": [
+        "grape",
+        "apple",
+        "banana",
+        "fig"
+      ],
+      "answer": "grape",
+      "explanation": "Grape est le mot anglais pour raisin.",
+      "dz": {
+        "question": "كيفاش نقولو 'raisin' بالإنجليزية؟",
+        "explanation": "Grape هي الكلمة الإنجليزية التي تعني العنب."
+      }
+    },
+    {
+      "question": "Comment dit-on 'mangue' en anglais ?",
+      "choices": [
+        "mango",
+        "papaya",
+        "melon",
+        "peach"
+      ],
+      "answer": "mango",
+      "explanation": "Mango est le mot anglais pour mangue.",
+      "dz": {
+        "question": "كيفاش نقولو 'mangue' بالإنجليزية؟",
+        "explanation": "Mango هي الكلمة الإنجليزية التي تعني المانجو."
+      }
+    },
+    {
+      "question": "Comment dit-on 'chat' en anglais ?",
+      "choices": [
+        "cat",
+        "dog",
+        "house",
+        "bird"
+      ],
+      "answer": "cat",
+      "explanation": "Cat est le mot anglais pour chat.",
+      "dz": {
+        "question": "كيفاش نقولو 'chat' بالإنجليزية؟",
+        "explanation": "Cat هي الكلمة الإنجليزية التي تعني القط."
+      }
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Choisissez la phrase correcte:",
+      "choices": ["I have been to Paris last year", "I went to Paris last year", "I have gone to Paris last year", "I did go to Paris last year"],
+      "answer": "I went to Paris last year",
+      "explanation": "Pour une action terminée dans le passé avec une date précise, on utilise le prétérit simple (went).",
+      "dz": {
+        "question": "اختار الجملة الصحيحة:",
+        "explanation": "للتعبير عن فعل في الماضي بتاريخ محدد، كنستعملو الماضي البسيط (went)."
+      }
+    },
+    {
+      "question": "Complétez: 'If I ___ rich, I would buy a big house.'",
+      "choices": ["am", "was", "were", "had been"],
+      "answer": "were",
+      "explanation": "Dans une condition irréelle au présent, on utilise 'were' pour toutes les personnes.",
+      "dz": {
+        "question": "كمل: 'If I ___ rich, I would buy a big house.'",
+        "explanation": "في الشرط الغير واقعي في الحاضر، كنستخدمو 'were' مع جميع الضمائر."
+      }
+    },
+    {
+      "question": "Quelle est la forme correcte?",
+      "choices": ["I didn't saw him", "I didn't seen him", "I didn't see him", "I didn't seeing him"],
+      "answer": "I didn't see him",
+      "explanation": "Après 'didn't', on utilise la forme base du verbe (infinitif sans 'to').",
+      "dz": {
+        "question": "شنو هي الصيغة الصحيحة؟",
+        "explanation": "بعد 'didn't'، كنستخدمو الفعل في صيغته الأساسية (المصدر بدون 'to')."
+      }
+    },
+    {
+      "question": "Comment dit-on 'confiance' en anglais ?",
+      "choices": [
+        "hope",
+        "trust",
+        "confidence",
+        "power"
+      ],
+      "answer": "confidence",
+      "explanation": "Confidence est le mot anglais pour confiance en soi, tandis que trust fait référence à la confiance qu'on place en quelqu'un.",
+      "dz": {
+        "question": "كيفاش نقولو 'confiance' بالإنجليزية؟",
+        "explanation": "Confidence هي الكلمة الإنجليزية للثقة بالنفس، بينما trust تشير إلى الثقة التي نضعها في شخص ما."
+      }
+    },
+    {
+      "question": "Complétez: 'She has been working there ___ five years.'",
+      "choices": [
+        "since",
+        "for",
+        "during",
+        "while"
+      ],
+      "answer": "for",
+      "explanation": "On utilise 'for' avec une durée et 'since' avec un point de départ.",
+      "dz": {
+        "question": "كمل: 'She has been working there ___ five years.'",
+        "explanation": "كنستعملو 'for' مع المدة و 'since' مع نقطة البداية."
+      }
+    },
+    {
+      "question": "Choisissez la phrase qui utilise correctement 'used to':",
+      "choices": [
+        "I used to swimming when I was young",
+        "I used to swim when I was young",
+        "I use to swim when I was young",
+        "I am used to swim when I was young"
+      ],
+      "answer": "I used to swim when I was young",
+      "explanation": "La structure correcte est 'used to + infinitif' pour parler d'une habitude passée.",
+      "dz": {
+        "question": "اختار الجملة اللي كتستعمل 'used to' بشكل صحيح:",
+        "explanation": "الهيكل الصحيح هو 'used to + infinitif' للتعبير عن عادة في الماضي."
+      }
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Choisissez la phrase correcte:",
+      "choices": ["Had I known, I would have told you", "If I had knew, I would have told you", "If I would have known, I would told you", "Had I knew, I would have told you"],
+      "answer": "Had I known, I would have told you",
+      "explanation": "C'est une inversion conditionnelle du 3e type (past perfect + would have + participe passé).",
+      "dz": {
+        "question": "اختار الجملة الصحيحة:",
+        "explanation": "هذا قلب شرطي من النوع الثالث (past perfect + would have + participe passé)."
+      }
+    },
+    {
+      "question": "Complétez: 'She insisted that he ___ the document immediately.'",
+      "choices": ["sign", "signs", "signed", "would sign"],
+      "answer": "sign",
+      "explanation": "Après 'insisted that', on utilise le subjonctif qui est identique à la forme base du verbe.",
+      "dz": {
+        "question": "كمل: 'She insisted that he ___ the document immediately.'",
+        "explanation": "بعد 'insisted that'، كنستعملو صيغة subjunctive اللي هي نفس الصيغة الأساسية للفعل."
+      }
+    },
+    {
+      "question": "Quelle phrase utilise correctement un gérondif?",
+      "choices": ["I look forward to hear from you", "I look forward to hearing from you", "I look forward to be hearing from you", "I look forward to heard from you"],
+      "answer": "I look forward to hearing from you",
+      "explanation": "Après 'look forward to', on utilise un gérondif (verbe + ing).",
+      "dz": {
+        "question": "أي جملة كتستخدم الجيروند بشكل صحيح؟",
+        "explanation": "بعد 'look forward to'، كنستعملو الجيروند (الفعل + ing)."
+      }
+    },
+    {
+      "question": "Choisissez la phrase avec l'inversion la plus correcte:",
+      "choices": [
+        "Seldom have I seen such a beautiful sunset",
+        "Seldom I have seen such a beautiful sunset",
+        "Seldom did I see such a beautiful sunset",
+        "Seldom I saw such a beautiful sunset"
+      ],
+      "answer": "Seldom have I seen such a beautiful sunset",
+      "explanation": "Avec 'seldom' en début de phrase, on utilise l'inversion sujet-auxiliaire au present perfect.",
+      "dz": {
+        "question": "اختار الجملة مع القلب الأكثر صحة:",
+        "explanation": "مع 'seldom' في بداية الجملة، كنقلبو الفاعل والفعل المساعد في present perfect."
+      }
+    },
+    {
+      "question": "Complétez: 'No sooner ___ the house than it started to rain.'",
+      "choices": [
+        "had we left",
+        "we had left",
+        "did we leave",
+        "we left"
+      ],
+      "answer": "had we left",
+      "explanation": "Après 'No sooner' au début d'une phrase, on inverse le sujet et l'auxiliaire du past perfect.",
+      "dz": {
+        "question": "كمل: 'No sooner ___ the house than it started to rain.'",
+        "explanation": "بعد 'No sooner' في بداية الجملة، كنقلبو الفاعل وفعل المساعد ديال past perfect."
+      }
+    },
+    {
+      "question": "Choisissez la phrase avec le bon ordre des adjectifs:",
+      "choices": [
+        "He bought a German old beautiful car",
+        "He bought a beautiful old German car",
+        "He bought an old beautiful German car",
+        "He bought a German beautiful old car"
+      ],
+      "answer": "He bought a beautiful old German car",
+      "explanation": "L'ordre correct des adjectifs en anglais est: opinion, taille, âge, forme, couleur, origine, matériau, but.",
+      "dz": {
+        "question": "اختار الجملة مع الترتيب الصحيح للصفات:",
+        "explanation": "الترتيب الصحيح للصفات بالإنجليزية هو: رأي، حجم، عمر، شكل، لون، أصل، مادة، غرض."
+      }
+    }
+  ]
+} 

@@ -1,0 +1,3 @@
+fastapi
+uvicorn[standard]
+# Ajoute ici toutes les autres dépendances nécessaires à ton backend

@@ -1,0 +1,272 @@
+{
+    "fruits": [
+        {
+            "question": "What is 'abricot' in English?",
+            "choices": [
+                "apricot",
+                "plum",
+                "peach",
+                "pear"
+            ],
+            "answer": "apricot"
+        },
+        {
+            "question": "What is 'cerise' in English?",
+            "choices": [
+                "cherry",
+                "apple",
+                "grape",
+                "pear"
+            ],
+            "answer": "cherry"
+        },
+        {
+            "question": "What is 'raisin' in English?",
+            "choices": [
+                "grape",
+                "apple",
+                "banana",
+                "fig"
+            ],
+            "answer": "grape"
+        },
+        {
+            "question": "What is 'ananas' in English?",
+            "choices": [
+                "pineapple",
+                "mango",
+                "papaya",
+                "orange"
+            ],
+            "answer": "pineapple"
+        },
+        {
+            "question": "What is 'avocat' in English?",
+            "choices": [
+                "avocado",
+                "grapefruit",
+                "melon",
+                "lime"
+            ],
+            "answer": "avocado"
+        },
+        {
+            "question": "What is 'citron' in English?",
+            "choices": [
+                "lemon",
+                "lime",
+                "orange",
+                "grapefruit"
+            ],
+            "answer": "lemon"
+        },
+        {
+            "question": "What is 'banane' in English?",
+            "choices": [
+                "banana",
+                "peach",
+                "plum",
+                "grape"
+            ],
+            "answer": "banana"
+        },
+        {
+            "question": "What is 'poire' in English?",
+            "choices": [
+                "pear",
+                "apple",
+                "fig",
+                "melon"
+            ],
+            "answer": "pear"
+        },
+        {
+            "question": "What is 'fraise' in English?",
+            "choices": [
+                "strawberry",
+                "raspberry",
+                "blueberry",
+                "cherry"
+            ],
+            "answer": "strawberry"
+        },
+        {
+            "question": "What is 'framboise' in English?",
+            "choices": [
+                "raspberry",
+                "strawberry",
+                "blackberry",
+                "currant"
+            ],
+            "answer": "raspberry"
+        },
+        {
+            "question": "What is 'kiwi' in English?",
+            "choices": [
+                "kiwi",
+                "fig",
+                "lemon",
+                "pear"
+            ],
+            "answer": "kiwi"
+        },
+        {
+            "question": "What is 'mangue' in English?",
+            "choices": [
+                "mango",
+                "papaya",
+                "melon",
+                "peach"
+            ],
+            "answer": "mango"
+        },
+        {
+            "question": "What is 'orange' in English?",
+            "choices": [
+                "orange",
+                "lemon",
+                "tangerine",
+                "grapefruit"
+            ],
+            "answer": "orange"
+        },
+        {
+            "question": "What is 'noix de coco' in English?",
+            "choices": [
+                "coconut",
+                "nut",
+                "peanut",
+                "hazelnut"
+            ],
+            "answer": "coconut"
+        },
+        {
+            "question": "What is 'pêche' in English?",
+            "choices": [
+                "peach",
+                "plum",
+                "pear",
+                "apricot"
+            ],
+            "answer": "peach"
+        },
+        {
+            "question": "What is 'pomme' in English?",
+            "choices": [
+                "apple",
+                "pear",
+                "banana",
+                "melon"
+            ],
+            "answer": "apple"
+        },
+        {
+            "question": "What is 'melon' in English?",
+            "choices": [
+                "melon",
+                "mango",
+                "papaya",
+                "grape"
+            ],
+            "answer": "melon"
+        },
+        {
+            "question": "What is 'pastèque' in English?",
+            "choices": [
+                "watermelon",
+                "melon",
+                "grapefruit",
+                "pineapple"
+            ],
+            "answer": "watermelon"
+        }
+    ],
+    "vegetables": [
+        {
+            "question": "What is 'oignon' in English?",
+            "choices": [
+                "onion",
+                "garlic",
+                "leek",
+                "shallot"
+            ],
+            "answer": "onion"
+        },
+        {
+            "question": "What is 'pomme de terre' in English?",
+            "choices": [
+                "potato",
+                "turnip",
+                "carrot",
+                "beet"
+            ],
+            "answer": "potato"
+        }
+    ],
+    "body_parts": [
+        {
+            "question": "What is 'tête' in English?",
+            "choices": [
+                "head",
+                "arm",
+                "leg",
+                "foot"
+            ],
+            "answer": "head"
+        },
+        {
+            "question": "What is 'nez' in English?",
+            "choices": [
+                "nose",
+                "ear",
+                "eye",
+                "mouth"
+            ],
+            "answer": "nose"
+        }
+    ],
+    "verb_tenses": [
+        {
+            "question": "What is the past tense of 'eat'?",
+            "choices": [
+                "ran",
+                "ateed",
+                "ate",
+                "ate"
+            ],
+            "answer": "ate"
+        },
+        {
+            "question": "What is the past tense of 'go'?",
+            "choices": [
+                "goed",
+                "went",
+                "went",
+                "ran"
+            ],
+            "answer": "went"
+        }
+    ],
+    "pronouns": [
+        {
+            "question": "What type of pronoun is 'me'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "object"
+        },
+        {
+            "question": "What type of pronoun is 'you'?",
+            "choices": [
+                "subject",
+                "object",
+                "possessive",
+                "reflexive"
+            ],
+            "answer": "subject"
+        }
+    ]
+} 

@@ -1,0 +1,1951 @@
+{
+  "beginner": [
+    {
+      "question": "Cha hiya '3neb ' in English?",
+      "choices": [
+        "grape",
+        "apple",
+        "banana",
+        "fig"
+      ],
+      "answer": "grape"
+    },
+    {
+      "question": "Cha hiya 'mangue' in English?",
+      "choices": [
+        "mango",
+        "papaya",
+        "melon",
+        "peach"
+      ],
+      "answer": "mango"
+    },
+    {
+      "question": "Cha hiya 'framboise' in English?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry"
+    },
+    {
+      "question": "Cha hiya 'framboise' in English?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry"
+    },
+    {
+      "question": "Cha hiya 'tomatis' in English?",
+      "choices": [
+        "tomato",
+        "pepper",
+        "lettuce",
+        "onion"
+      ],
+      "answer": "tomato"
+    },
+    {
+      "question": "Cha hiya 'bsel' in English?",
+      "choices": [
+        "onion",
+        "garlic",
+        "leek",
+        "shallot"
+      ],
+      "answer": "onion"
+    },
+    {
+      "question": "Cha hiya 'yed' in English?",
+      "choices": [
+        "hand",
+        "arm",
+        "leg",
+        "foot"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "Cha hiya 'dra3' in English?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "Cha hiya 'sbo3' in English?",
+      "choices": [
+        "finger",
+        "toe",
+        "nail",
+        "hand"
+      ],
+      "answer": "finger"
+    },
+    {
+      "question": "Cha howa li ygheti 3dem",
+      "choices": [
+        "skin",
+        "hair",
+        "nails",
+        "toes"
+      ],
+      "answer": "skin"
+    },
+    {
+      "question": "Cha hiya 'rjel' in English?",
+      "choices": [
+        "foot",
+        "hand",
+        "toe",
+        "knee"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "Cha hiya 'fom' in English?",
+      "choices": [
+        "mouth",
+        "tongue",
+        "cheek",
+        "lip"
+      ],
+      "answer": "mouth"
+    },
+    {
+      "question": "Cha hiya 'sbo3' in English?",
+      "choices": [
+        "finger",
+        "toe",
+        "hand",
+        "thumb"
+      ],
+      "answer": "finger"
+    },
+    {
+      "question": "kich ngolo 'gat' en anglais ?",
+      "choices": [
+        "cat",
+        "dog",
+        "house",
+        "bird"
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "Cha hiya 'merci' en anglais?",
+      "choices": [
+        "thank you",
+        "sorry",
+        "excuse me",
+        "yes"
+      ],
+      "answer": "thank you"
+    },
+    {
+      "question": "Cha hiya the English word for 'école'?",
+      "choices": [
+        "school",
+        "university",
+        "classroom",
+        "teacher"
+      ],
+      "answer": "school"
+    },
+    {
+      "question": "Cha hiya the English word for 'vacances'?",
+      "choices": [
+        "holiday",
+        "journey",
+        "trip",
+        "rest"
+      ],
+      "answer": "holiday"
+    },
+    {
+      "question": "Cha hiya the English word for 'confiance'?",
+      "choices": [
+        "hope",
+        "trust",
+        "confidence",
+        "power"
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question": "Cha hiya 'chemise' in English?",
+      "choices": [
+        "shirt",
+        "pants",
+        "jacket",
+        "hat"
+      ],
+      "answer": "shirt"
+    },
+    {
+      "question": "Cha hiya 'chapeau' in English?",
+      "choices": [
+        "hat",
+        "belt",
+        "coat",
+        "sock"
+      ],
+      "answer": "hat"
+    },
+    {
+      "question": "Cha hiya 'robe' in English?",
+      "choices": [
+        "dress",
+        "coat",
+        "jacket",
+        "blouse"
+      ],
+      "answer": "dress"
+    },
+    {
+      "question": "Cha hiya 'manteau' in English?",
+      "choices": [
+        "coat",
+        "shirt",
+        "hoodie",
+        "jacket"
+      ],
+      "answer": "coat"
+    },
+    {
+      "question": "kich ngolo veste impermeable en anglais ?",
+      "choices": [
+        "raincoat",
+        "hoodie",
+        "sweater",
+        "vest"
+      ],
+      "answer": "raincoat"
+    },
+    {
+      "question": "Cha hiya the English word for 'professeur'?",
+      "choices": [
+        "teacher",
+        "principal",
+        "student",
+        "friend"
+      ],
+      "answer": "teacher"
+    },
+    {
+      "question": "Cha hiya the English word for 'stylo'?",
+      "choices": [
+        "pen",
+        "pencil",
+        "ruler",
+        "marker"
+      ],
+      "answer": "pen"
+    },
+    {
+      "question": "Cha hiya the English term for 'emploi du temps'?",
+      "choices": [
+        "schedule",
+        "diary",
+        "report",
+        "syllabus"
+      ],
+      "answer": "schedule"
+    },
+    {
+      "question": "Kidyra 7ala neffsiya t3 whde za3fane?",
+      "choices": [
+        "sadness",
+        "joy",
+        "fear",
+        "anger"
+      ],
+      "answer": "sadness"
+    },
+    {
+      "question": "Cha hiya 'mechmech' in English?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot"
+    },
+    {
+      "question": "Cha hiya 'abricot' in English?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot"
+    },
+    {
+      "question": "Kidyr fruit li jey hmer w ydiroh f dessert",
+      "choices": [
+        "apple",
+        "banana",
+        "grape",
+        "kiwi"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "Kidyra fruit ydiro biha guacamole?",
+      "choices": [
+        "avocado",
+        "banana",
+        "lime",
+        "papaya"
+      ],
+      "answer": "avocado"
+    },
+    {
+      "question": "Cha hiya 'pomme de terre' en Englais?",
+      "choices": [
+        "potato",
+        "carrot",
+        "beet",
+        "pea"
+      ],
+      "answer": "potato"
+    },
+    {
+      "question": "Kidyra khodra li orange w twila",
+      "choices": [
+        "carrot",
+        "parsnip",
+        "zucchini",
+        "turnip"
+      ],
+      "answer": "carrot"
+    },
+    {
+      "question": "Ketba nichen t3  'ananas' in English is:",
+      "choices": [
+        "pineapple",
+        "pinapple",
+        "pineappel",
+        "pineaple"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Ketba nichen t3  'fraise' in English is:",
+      "choices": [
+        "strawberry",
+        "strawbery",
+        "strawbary",
+        "strowberry"
+      ],
+      "answer": "strawberry"
+    },
+    {
+      "question": "Ketba nichen t3  'brocoli' in English is...",
+      "choices": [
+        "broccoli",
+        "brocoly",
+        "brokoli",
+        "broccoly"
+      ],
+      "answer": "broccoli"
+    },
+    {
+      "question": "Ketba nichen t3  'betterave' in English is...",
+      "choices": [
+        "beetroot",
+        "beatroot",
+        "beatroat",
+        "bitroot"
+      ],
+      "answer": "beetroot"
+    },
+    {
+      "question": "Ketba nichen t3  'champignon' in English is...",
+      "choices": [
+        "mushroom",
+        "mashroom",
+        "muschroom",
+        "mouchroom"
+      ],
+      "answer": "mushroom"
+    },
+    {
+      "question": "Ketba nichen t3  'persil' in English is...",
+      "choices": [
+        "parsley",
+        "parslay",
+        "parsly",
+        "parceley"
+      ],
+      "answer": "parsley"
+    },
+    {
+      "question": "Kifeh ngolo ch3er en anglais ?",
+      "choices": [
+        "hair",
+        "hare",
+        "hear",
+        "herr"
+      ],
+      "answer": "hair"
+    },
+    {
+      "question": "Kidyr li yji f wjeh ?",
+      "choices": [
+        "eyebrow",
+        "ankle",
+        "knee",
+        "heel"
+      ],
+      "answer": "eyebrow"
+    },
+    {
+      "question": "Chkoun fihom li articulation 'joint'?",
+      "choices": [
+        "knee",
+        "back",
+        "head",
+        "chest"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "Kidyr li nchofo boh ?",
+      "choices": [
+        "eyes",
+        "ears",
+        "mouth",
+        "skin"
+      ],
+      "answer": "eyes"
+    },
+    {
+      "question": "Chkn howa li ykhelil tatwi rejlik ?",
+      "choices": [
+        "knee",
+        "ankle",
+        "heel",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "kidyr fihom li y3awn f l'equilibre w jay dekhel wden?",
+      "choices": [
+        "cochlea",
+        "eardrum",
+        "canal",
+        "membrane"
+      ],
+      "answer": "cochlea"
+    },
+    {
+      "question": "Kish nktbo 'cheville' in English?",
+      "choices": [
+        "ankle",
+        "heel",
+        "knee",
+        "calf"
+      ],
+      "answer": "ankle"
+    },
+    {
+      "question": "Kifach taktab 'poignet' in English?",
+      "choices": [
+        "wrist",
+        "elbow",
+        "hand",
+        "palm"
+      ],
+      "answer": "wrist"
+    },
+    {
+      "question": "Kifach taktab 'coude' in English?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "hand"
+      ],
+      "answer": "elbow"
+    },
+    {
+      "question": "Kifach taktab 'pouce' in English?",
+      "choices": [
+        "thumb",
+        "finger",
+        "hand",
+        "palm"
+      ],
+      "answer": "thumb"
+    },
+    {
+      "question": "Chkn li nchofo biha ?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "head"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "cha howa li jey bin coude w poignee",
+      "choices": [
+        "forearm",
+        "hand",
+        "bicep",
+        "shoulder"
+      ],
+      "answer": "forearm"
+    },
+    {
+      "question": "Kidyr li yji f dher w ykhelik tg3d droit ?",
+      "choices": [
+        "spine",
+        "hip",
+        "belly",
+        "chest"
+      ],
+      "answer": "spine"
+    },
+    {
+      "question": "Kidyr article li yji hna: '___ apple a day keeps the doctor away'?",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "answer": "An"
+    },
+    {
+      "question": "Kidyra kelma tji hna: 'I was tired ___ I went to bed'?",
+      "choices": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": "so"
+    },
+    {
+      "question": "'winta' en anglais",
+      "choices": [
+        "Where",
+        "When",
+        "Why",
+        "How"
+      ],
+      "answer": "When"
+    },
+    {
+      "question": "tissu li yji mlih f seyf",
+      "choices": [
+        "cotton",
+        "wool",
+        "leather",
+        "velvet"
+      ],
+      "answer": "cotton"
+    },
+    {
+      "question": "kisemouh l'etablissement li n9ro fih 9bel jami3a",
+      "choices": [
+        "high school",
+        "kindergarten",
+        "college",
+        "nursery"
+      ],
+      "answer": "high school"
+    },
+    {
+      "question": "'kareh' en anglais",
+      "choices": [
+        "bored",
+        "thrilled",
+        "glad",
+        "hopeful"
+      ],
+      "answer": "bored"
+    },
+    {
+      "question": "bnadem ki ykon 'mhenni' sema ykon ",
+      "choices": [
+        "calm",
+        "anxious",
+        "scared",
+        "sad"
+      ],
+      "answer": "calm"
+    },
+    {
+      "question": "kifeh ngolo 'mnervi'en anglais?",
+      "choices": [
+        "furious",
+        "melancholic",
+        "content",
+        "hopeful"
+      ],
+      "answer": "furious"
+    },
+    {
+      "question": "khodra li tbeki bnadem",
+      "choices": [
+        "onion",
+        "leek",
+        "garlic",
+        "shallot"
+      ],
+      "answer": "onion"
+    },
+    {
+      "question": "khodra jeya khedra w tchbeh chejra",
+      "choices": [
+        "broccoli",
+        "spinach",
+        "lettuce",
+        "cabbage"
+      ],
+      "answer": "broccoli"
+    },
+    {
+      "question": "kidyr fihom li mnlbsohch f rejlina",
+      "choices": [
+        "scarf",
+        "sneakers",
+        "boots",
+        "slippers"
+      ],
+      "answer": "scarf"
+    },
+    {
+      "question": "'eat' f passe ?",
+      "choices": [
+        "eated",
+        "ate",
+        "eats",
+        "eaten"
+      ],
+      "answer": "ate"
+    },
+    {
+      "question": " 'tableau' f la classe en anglais :",
+      "choices": [
+        "board",
+        "wall",
+        "window",
+        "floor"
+      ],
+      "answer": "board"
+    },
+    {
+      "question": "C3eks t3 'z3fen'?",
+      "choices": [
+        "happy",
+        "angry",
+        "worried",
+        "bored"
+      ],
+      "answer": "happy"
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Cha hiya 'citron' en anglais?",
+      "choices": [
+        "lemon",
+        "lime",
+        "orange",
+        "grapefruit"
+      ],
+      "answer": "lemon"
+    },
+    {
+      "question": "Cha hiya 'mechmech' en anglais?",
+      "choices": [
+        "peach",
+        "plum",
+        "pear",
+        "apricot"
+      ],
+      "answer": "peach"
+    },
+    {
+      "question": "Cha hiya 'ananas' en anglais?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Cha hiya 'ananas' en anglais?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Cha hiya 'khyer' en anglais?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pea"
+      ],
+      "answer": "cucumber"
+    },
+    {
+      "question": "Cha hiya 'sel9' en anglais?",
+      "choices": [
+        "spinach",
+        "lettuce",
+        "cabbage",
+        "parsley"
+      ],
+      "answer": "spinach"
+    },
+    {
+      "question": "Cha hiya 'loubia' en anglais?",
+      "choices": [
+        "bean",
+        "pea",
+        "lentil",
+        "corn"
+      ],
+      "answer": "bean"
+    },
+    {
+      "question": "Cha hiya 'rjel' en anglais?",
+      "choices": [
+        "foot",
+        "toe",
+        "heel",
+        "leg"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "Cha hiya 'jambe' en anglais",
+      "choices": [
+        "leg",
+        "foot",
+        "knee",
+        "hip"
+      ],
+      "answer": "leg"
+    },
+    {
+      "question": "Cha hiya 'epaule' en anglais?",
+      "choices": [
+        "shoulder",
+        "chest",
+        "neck",
+        "arm"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "Cha hiya 'ras' en anglais?",
+      "choices": [
+        "head",
+        "shoulder",
+        "neck",
+        "face"
+      ],
+      "answer": "head"
+    },
+    {
+      "question": "Cha hiya '3eyn' en anglais?",
+      "choices": [
+        "eye",
+        "ear",
+        "eyebrow",
+        "eyelash"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "Cha hiya 'dra3' en anglais?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "cha hiya li tji f debut: '____ is your name?'",
+      "choices": [
+        "Who",
+        "What",
+        "Which",
+        "How"
+      ],
+      "answer": "What"
+    },
+    {
+      "question": "'kelb'en anglais?",
+      "choices": [
+        "rabbit",
+        "dog",
+        "fish",
+        "cat"
+      ],
+      "answer": "dog"
+    },
+    {
+      "question": "'dar'en anglais?",
+      "choices": [
+        "school",
+        "house",
+        "store",
+        "park"
+      ],
+      "answer": "house"
+    },
+    {
+      "question": "'khedma'en anglais?",
+      "choices": [
+        "work",
+        "play",
+        "meeting",
+        "break"
+      ],
+      "answer": "work"
+    },
+    {
+      "question": "'te3lim'en anglais?",
+      "choices": [
+        "training",
+        "learning",
+        "improving",
+        "studying"
+      ],
+      "answer": "learning"
+    },
+    {
+      "question": "Cha hiya the English word for 'communication'?",
+      "choices": [
+        "language",
+        "interaction",
+        "communication",
+        "conversation"
+      ],
+      "answer": "communication"
+    },
+    {
+      "question": "Cha hiya 'serwel' en anglais?",
+      "choices": [
+        "trousers",
+        "shoes",
+        "tie",
+        "cap"
+      ],
+      "answer": "trousers"
+    },
+    {
+      "question": "Cha hiya 'vista' en anglais?",
+      "choices": [
+        "jacket",
+        "hoodie",
+        "sweater",
+        "t-shirt"
+      ],
+      "answer": "jacket"
+    },
+    {
+      "question": "Cha hiya 't9achir' en anglais??",
+      "choices": [
+        "socks",
+        "boots",
+        "gloves",
+        "shoes"
+      ],
+      "answer": "socks"
+    },
+    {
+      "question": "Cha hiya the English word for 'élève'?",
+      "choices": [
+        "student",
+        "teacher",
+        "parent",
+        "classroom"
+      ],
+      "answer": "student"
+    },
+    {
+      "question": "'récréation'en anglais?",
+      "choices": [
+        "recess",
+        "breakfast",
+        "lesson",
+        "exam"
+      ],
+      "answer": "recess"
+    },
+    {
+      "question": "Cha hiya 'orange' en anglais?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange"
+    },
+    {
+      "question": "Cha hiya 'orange' en anglais?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange"
+    },
+    {
+      "question": "kidyr fruit yji sfar men dekhel w men bera yji 9asseh?",
+      "choices": [
+        "pineapple",
+        "melon",
+        "papaya",
+        "mango"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "kidyr fruit jay sfar w twil?",
+      "choices": [
+        "banana",
+        "pear",
+        "grapefruit",
+        "orange"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": " 'mechmech' en anglais?:",
+      "choices": [
+        "peach",
+        "peech",
+        "pech",
+        "piche"
+      ],
+      "answer": "peach"
+    },
+    {
+      "question": "'banane' en anglais?:",
+      "choices": [
+        "banana",
+        "bananna",
+        "bananah",
+        "bannana"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "'chou-fleur' en anglais?",
+      "choices": [
+        "cauliflower",
+        "coliflower",
+        "couliflower",
+        "califlower"
+      ],
+      "answer": "cauliflower"
+    },
+    {
+      "question": "'navet' en anglais?",
+      "choices": [
+        "turnip",
+        "ternip",
+        "tournip",
+        "tornip"
+      ],
+      "answer": "turnip"
+    },
+    {
+      "question": "'maïs' en anglais?",
+      "choices": [
+        "corn",
+        "korn",
+        "coorn",
+        "corne"
+      ],
+      "answer": "corn"
+    },
+    {
+      "question": "Kifach taktab 'genou' en anglais?",
+      "choices": [
+        "knee",
+        "knie",
+        "nee",
+        "kne"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "cha howa li nsm3o bih?",
+      "choices": [
+        "ears",
+        "eyes",
+        "mouth",
+        "nose"
+      ],
+      "answer": "ears"
+    },
+    {
+      "question": "li yprotegi 39el",
+      "choices": [
+        "skull",
+        "scalp",
+        "skin",
+        "muscle"
+      ],
+      "answer": "skull"
+    },
+    {
+      "question": "bech netnfso?",
+      "choices": [
+        "lungs",
+        "liver",
+        "intestines",
+        "kidneys"
+      ],
+      "answer": "lungs"
+    },
+    {
+      "question": "Kifach taktab 'menton' en anglais?",
+      "choices": [
+        "chin",
+        "cheek",
+        "lip",
+        "nose"
+      ],
+      "answer": "chin"
+    },
+    {
+      "question": "Kifach taktab 'kerch' en anglais?",
+      "choices": [
+        "belly",
+        "chest",
+        "back",
+        "hip"
+      ],
+      "answer": "belly"
+    },
+    {
+      "question": "Kifach taktab 'hanche' en anglais?",
+      "choices": [
+        "hip",
+        "waist",
+        "belly",
+        "back"
+      ],
+      "answer": "hip"
+    },
+    {
+      "question": "'nif' en anglais?",
+      "choices": [
+        "nose",
+        "mouth",
+        "eye",
+        "ear"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "'regba' en anglais?",
+      "choices": [
+        "neck",
+        "chest",
+        "back",
+        "arm"
+      ],
+      "answer": "neck"
+    },
+    {
+      "question": "cha howa li teht chwareb ?",
+      "choices": [
+        "chin",
+        "nose",
+        "lip",
+        "neck"
+      ],
+      "answer": "chin"
+    },
+    {
+      "question": "'yed' en anglais?",
+      "choices": [
+        "hand",
+        "foot",
+        "elbow",
+        "knee"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "kifeh ngol 'rah l'ecole'en anglais?",
+      "choices": [
+        "He go to school.",
+        "He goes to school.",
+        "He going to school.",
+        "He gone to school."
+      ],
+      "answer": "He goes to school."
+    },
+    {
+      "question": "kidyra li nichen",
+      "choices": [
+        "She adopted an dog.",
+        "She adopted a dog.",
+        "She adopted dog.",
+        "She adopted the dog."
+      ],
+      "answer": "She adopted a dog."
+    },
+    {
+      "question": "kamel la phrase: 'She is smart ___ hardworking.'",
+      "choices": [
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "answer": "and"
+    },
+    {
+      "question": "cha howa li ndiroh 3la regba ",
+      "choices": [
+        "scarf",
+        "gloves",
+        "boots",
+        "jeans"
+      ],
+      "answer": "scarf"
+    },
+    {
+      "question": "cha ylbso rjal f evenement ",
+      "choices": [
+        "tuxedo",
+        "shorts",
+        "t-shirt",
+        "jeans"
+      ],
+      "answer": "tuxedo"
+    },
+    {
+      "question": "'crayon' en anglais?",
+      "choices": [
+        "pencil",
+        "pen",
+        "crayon",
+        "color"
+      ],
+      "answer": "pencil"
+    },
+    {
+      "question": "'devoirs à la maison'en anglais?",
+      "choices": [
+        "homework",
+        "exam",
+        "test",
+        "project"
+      ],
+      "answer": "homework"
+    },
+    {
+      "question": "kich ngolo 'nedmen' en anglais?",
+      "choices": [
+        "remorseful",
+        "happy",
+        "excited",
+        "curious"
+      ],
+      "answer": "remorseful"
+    },
+    {
+      "question": "cha hiya kelma li endha me3na t3 whde ferhen bzf'?",
+      "choices": [
+        "intense happiness",
+        "deep anger",
+        "mild interest",
+        "complete boredom"
+      ],
+      "answer": "intense happiness"
+    },
+    {
+      "question": "'denjen' en anglais?",
+      "choices": [
+        "eggplant",
+        "carrot",
+        "zucchini",
+        "lettuce"
+      ],
+      "answer": "eggplant"
+    },
+    {
+      "question": "fruit jey khder",
+      "choices": [
+        "avocado",
+        "pepper",
+        "tomato",
+        "cucumber"
+      ],
+      "answer": "avocado"
+    },
+    {
+      "question": "kidyra khodra jeya sghira tji hemra wela byda w jeya hera?",
+      "choices": [
+        "radish",
+        "onion",
+        "garlic",
+        "chili"
+      ],
+      "answer": "radish"
+    },
+    {
+      "question": "kidyra khodra li khedra w twila w ndiro biha les salades?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pepper"
+      ],
+      "answer": "cucumber"
+    },
+    {
+      "question": "cha howa li jey f yedin?",
+      "choices": [
+        "fingernail",
+        "toe",
+        "ankle",
+        "eye"
+      ],
+      "answer": "fingernail"
+    },
+    {
+      "question": "'gelb'en anglais ?'",
+      "choices": [
+        "heart",
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "answer": "heart"
+    },
+    {
+      "question": "'coude'en anglais?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "fingers"
+      ],
+      "answer": "elbow"
+    },
+    {
+      "question": "f mechta cha ndiro f yedina bech mybrdoch?",
+      "choices": [
+        "gloves",
+        "socks",
+        "tie",
+        "shirt"
+      ],
+      "answer": "gloves"
+    },
+    {
+      "question": "'nwader t3 chems' en anglais?",
+      "choices": [
+        "sunglasses",
+        "hat",
+        "scarf",
+        "cap"
+      ],
+      "answer": "sunglasses"
+    },
+    {
+      "question": "'ikhtibar' en anglais?",
+      "choices": [
+        "exam",
+        "homework",
+        "recess",
+        "essay"
+      ],
+      "answer": "exam"
+    },
+    {
+      "question": "kifeh ngolo 'mnervi'en anglais?",
+      "choices": [
+        "mad",
+        "happy",
+        "tired",
+        "relaxed"
+      ],
+      "answer": "mad"
+    },
+    {
+      "question": "'m9ele9'en anglais?",
+      "choices": [
+        "worried",
+        "joyful",
+        "calm",
+        "bored"
+      ],
+      "answer": "worried"
+    },
+    {
+      "question": "whde 'maytihch belkhof'",
+      "choices": [
+        "staying calm in stress",
+        "getting easily frustrated",
+        "avoiding emotions",
+        "hiding fear"
+      ],
+      "answer": "staying calm in stress"
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Cha hiya 'fraise' en anglais?",
+      "choices": [
+        "strawberry",
+        "raspberry",
+        "blueberry",
+        "cherry"
+      ],
+      "answer": "strawberry"
+    },
+    {
+      "question": "Cha hiya 'dela3' en anglais?",
+      "choices": [
+        "watermelon",
+        "melon",
+        "grapefruit",
+        "pineapple"
+      ],
+      "answer": "watermelon"
+    },
+    {
+      "question": "Cha hiya 'banane' ien anglais?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Cha hiya 'banane' en anglais?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Cha hiya 'thoum' en anglais?",
+      "choices": [
+        "garlic",
+        "onion",
+        "leek",
+        "ginger"
+      ],
+      "answer": "garlic"
+    },
+    {
+      "question": "Cha hiya 'courgette' en anglais?",
+      "choices": [
+        "zucchini",
+        "eggplant",
+        "bean",
+        "pea"
+      ],
+      "answer": "zucchini"
+    },
+    {
+      "question": "Cha hiya 'felfla' en anglais?",
+      "choices": [
+        "pepper",
+        "tomato",
+        "cucumber",
+        "zucchini"
+      ],
+      "answer": "pepper"
+    },
+    {
+      "question": "Cha hiya 'nif' en anglais?",
+      "choices": [
+        "nose",
+        "ear",
+        "eye",
+        "mouth"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "Cha hiya '3eyn' en anglais?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "nose"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "Cha hiya 'foum' en anglais?",
+      "choices": [
+        "mouth",
+        "nose",
+        "eye",
+        "ear"
+      ],
+      "answer": "mouth"
+    },
+    {
+      "question": "Cha hiya 'wden' en anglais?",
+      "choices": [
+        "ear",
+        "eye",
+        "mouth",
+        "cheek"
+      ],
+      "answer": "ear"
+    },
+    {
+      "question": "Cha hiya 'yed' en anglais?",
+      "choices": [
+        "hand",
+        "arm",
+        "foot",
+        "head"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "Cha hiya 'nif' en anglais?",
+      "choices": [
+        "nose",
+        "eye",
+        "ear",
+        "mouth"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "Cha hiya 'jambe' en anglais?",
+      "choices": [
+        "leg",
+        "arm",
+        "thigh",
+        "foot"
+      ],
+      "answer": "leg"
+    },
+    {
+      "question": "Cha hiya 'genou' en anglais?",
+      "choices": [
+        "knee",
+        "leg",
+        "foot",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "kamel la phrase: '____ did you do that?'",
+      "choices": [
+        "Why",
+        "When",
+        "How many",
+        "What"
+      ],
+      "answer": "Why"
+    },
+    {
+      "question": "'sbeh el kheir'en anglais?",
+      "choices": [
+        "hello",
+        "goodbye",
+        "thank you",
+        "please"
+      ],
+      "answer": "hello"
+    },
+    {
+      "question": "'loto'en anglais?",
+      "choices": [
+        "bike",
+        "bus",
+        "car",
+        "train"
+      ],
+      "answer": "car"
+    },
+    {
+      "question": "'famillya'en anglais?",
+      "choices": [
+        "family",
+        "friends",
+        "team",
+        "group"
+      ],
+      "answer": "family"
+    },
+    {
+      "question": "'développement'en anglais?",
+      "choices": [
+        "growth",
+        "building",
+        "development",
+        "design"
+      ],
+      "answer": "development"
+    },
+    {
+      "question": "'compréhension'en anglais?",
+      "choices": [
+        "understanding",
+        "learning",
+        "perception",
+        "reflection"
+      ],
+      "answer": "understanding"
+    },
+    {
+      "question": "chaussures' en anglais?",
+      "choices": [
+        "shoes",
+        "scarf",
+        "boots",
+        "gloves"
+      ],
+      "answer": "shoes"
+    },
+    {
+      "question": "'jupe' en anglais?",
+      "choices": [
+        "skirt",
+        "shirt",
+        "sock",
+        "tie"
+      ],
+      "answer": "skirt"
+    },
+    {
+      "question": "cravate' en anglais?",
+      "choices": [
+        "tie",
+        "belt",
+        "hat",
+        "cap"
+      ],
+      "answer": "tie"
+    },
+    {
+      "question": "'école'en anglais?",
+      "choices": [
+        "school",
+        "class",
+        "student",
+        "teacher"
+      ],
+      "answer": "school"
+    },
+    {
+      "question": "'kteb'en anglais?",
+      "choices": [
+        "book",
+        "notebook",
+        "pen",
+        "paper"
+      ],
+      "answer": "book"
+    },
+    {
+      "question": "whde ferhen en anglais?",
+      "choices": [
+        "joyful",
+        "angry",
+        "tired",
+        "sad"
+      ],
+      "answer": "joyful"
+    },
+    {
+      "question": "whde khayef en anglais?",
+      "choices": [
+        "afraid",
+        "happy",
+        "sleepy",
+        "calm"
+      ],
+      "answer": "afraid"
+    },
+    {
+      "question": "whde ghayer en anglais ?",
+      "choices": [
+        "envious",
+        "tired",
+        "glad",
+        "shy"
+      ],
+      "answer": "envious"
+    },
+    {
+      "question": "whde stresser en anglais?",
+      "choices": [
+        "anxious",
+        "excited",
+        "confident",
+        "carefree"
+      ],
+      "answer": "anxious"
+    },
+    {
+      "question": "Cha hiya 'tofah' en anglais?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "Cha hiya 'tofah' en anglais?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "fruit khder men bera w hmer f dekhel w nekloh f sayf",
+      "choices": [
+        "watermelon",
+        "apple",
+        "pear",
+        "kiwi"
+      ],
+      "answer": "watermelon"
+    },
+    {
+      "question": "'citron' en anglais?",
+      "choices": [
+        "lemon",
+        "leemon",
+        "lemen",
+        "limoon"
+      ],
+      "answer": "lemon"
+    },
+    {
+      "question": "kich ngolo '3neb' en anglais?:",
+      "choices": [
+        "grape",
+        "greip",
+        "graip",
+        "graep"
+      ],
+      "answer": "grape"
+    },
+  
+    {
+      "question": " 'slata' en anglais?",
+      "choices": [
+        "lettuce",
+        "letuce",
+        "lattuce",
+        "letus"
+      ],
+      "answer": "lettuce"
+    },
+   
+    {
+      "question": "win jey coude ?",
+      "choices": [
+        "arm",
+        "leg",
+        "head",
+        "back"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "kidyr fihom li myjish  f wjeh?",
+      "choices": [
+        "shoulder",
+        "nose",
+        "eyes",
+        "lips"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "win jay talons ?",
+      "choices": [
+        "foot",
+        "hand",
+        "elbow",
+        "shoulder"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "kidyra partie men corp li fiha besma",
+      "choices": [
+        "fingers",
+        "palms",
+        "toes",
+        "nails"
+      ],
+      "answer": "fingers"
+    },
+    {
+      "question": "ki dyra partie li manchofohash ?",
+      "choices": [
+        "lungs",
+        "nose",
+        "ears",
+        "eyes"
+      ],
+      "answer": "lungs"
+    },
+    {
+      "question": "Kifach taktab 'épaule' en anglais?",
+      "choices": [
+        "shoulder",
+        "neck",
+        "arm",
+        "back"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "Kifach taktab 'dher' en anglais?",
+      "choices": [
+        "back",
+        "shoulder",
+        "spine",
+        "neck"
+      ],
+      "answer": "back"
+    },
+    {
+      "question": "Kifach taktab 'lsen' en anglais?",
+      "choices": [
+        "tongue",
+        "mouth",
+        "lip",
+        "throat"
+      ],
+      "answer": "tongue"
+    },
+    {
+      "question": "kidyra partie li tsm3 biha?",
+      "choices": [
+        "ear",
+        "eye",
+        "nose",
+        "head"
+      ],
+      "answer": "ear"
+    },
+    {
+      "question": "kidyra partie tkhelina natwo rejlina",
+      "choices": [
+        "knee",
+        "ankle",
+        "thigh",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "chwareb en anglais?",
+      "choices": [
+        "lip",
+        "tongue",
+        "cheek",
+        "chin"
+      ],
+      "answer": "lip"
+    },
+    {
+      "question": ": cha howa li yji f faregh li kyn 'By the time she arrived, we ____ dinner.'",
+      "choices": [
+        "have had",
+        "had had",
+        "has had",
+        "will have"
+      ],
+      "answer": "have had"
+    },
+    {
+      "question": "kidyra phrase nichen?",
+      "choices": [
+        "The Mount Everest is the highest mountain.",
+        "Mount Everest is the highest mountain.",
+        "The Everest is highest mountain.",
+        "Everest is highest the mountain."
+      ],
+      "answer": "Mount Everest is the highest mountain."
+    },
+    
+    {
+      "question": "chkn li myish f sif?",
+      "choices": [
+        "coat",
+        "shorts",
+        "sandals",
+        "cap"
+      ],
+      "answer": "coat"
+    },
+    {
+      "question": "cha howa li nlbsoh f tour de taille",
+      "choices": [
+        "belt",
+        "scarf",
+        "cap",
+        "sock"
+      ],
+      "answer": "belt"
+    },
+    {
+      "question": "chkn li fihom accesoire ",
+      "choices": [
+        "watch",
+        "shirt",
+        "pants",
+        "sneakers"
+      ],
+      "answer": "watch"
+    },
+    {
+      "question": "chkn fihom 'salle de classe'en anglais ?",
+      "choices": [
+        "classroom",
+        "library",
+        "gym",
+        "cafeteria"
+      ],
+      "answer": "classroom"
+    },
+    {
+      "question": "Cha howa sujet li ne9roh 3la numero?",
+      "choices": [
+        "math",
+        "history",
+        "biology",
+        "art"
+      ],
+      "answer": "math"
+    },
+    {
+      "question": "Cha hiya 'carotte' en anglais?",
+      "choices": [
+        "carrot",
+        "beet",
+        "radish",
+        "pea"
+      ],
+      "answer": "carrot"
+    },
+    {
+      "question": "Kidyra lkhodra li fiha lhdid w ndiroha f slata",
+      "choices": [
+        "spinach",
+        "onion",
+        "garlic",
+        "radish"
+      ],
+      "answer": "spinach"
+    },
+    {
+      "question": "'mais' en anglais?",
+      "choices": [
+        "corn",
+        "bean",
+        "lentil",
+        "pea"
+      ],
+      "answer": "corn"
+    },
+    {
+      "question": "Cha hiya lkhodra li byda and wo endha forme t3 mokhe",
+      "choices": [
+        "cauliflower",
+        "cabbage",
+        "broccoli",
+        "turnip"
+      ],
+      "answer": "cauliflower"
+    },
+    {
+      "question": "Cha howa 3odw men corp  yconnecter bin rass w sder?",
+      "choices": [
+        "neck",
+        "shoulder",
+        "back",
+        "hip"
+      ],
+      "answer": "neck"
+    },
+    {
+      "question": " 'roht'en anglaiss?",
+      "choices": [
+        "goed",
+        "went",
+        "goes",
+        "gone"
+      ],
+      "answer": "went"
+    },
+    {
+      "question": "kich ygolo 'directeur' f lecole en anglais:",
+      "choices": [
+        "principal",
+        "professor",
+        "student",
+        "nurse"
+      ],
+      "answer": "principal"
+    },
+    {
+      "question": "kidya kelma ta3ni 'extremely happy'?",
+      "choices": [
+        "ecstatic",
+        "tired",
+        "angry",
+        "cold"
+      ],
+      "answer": "ecstatic"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Cette vidéo explique l'utilisation des verbes modaux en anglais.
+
+Règles principales des verbes modaux:
+
+1. Les verbes modaux sont suivis directement du verbe à l'infinitif SANS "to":
+   - Correct: I can swim.
+   - Incorrect: I can to swim.
+
+2. Liste des principaux verbes modaux:
+   - can / could (pouvoir, capacité)
+   - may / might (possibilité)
+   - must (obligation)
+   - should (conseil, recommandation)
+   - will / would (futur, conditionnels)
+
+3. Les verbes modaux ne prennent pas de -s à la 3ème personne:
+   - Correct: He can speak English.
+   - Incorrect: He cans speak English.
+
+4. Pour former la négation, ajouter "not" après le modal:
+   - I cannot (can't) swim.
+   - She should not (shouldn't) go.
+
+5. Pour former une question, inverser le modal et le sujet:
+   - Can you help me?
+   - Should we leave now?
+
+Cette erreur "can to" est très courante chez les francophones car en français on dit "pouvoir + infinitif". 

@@ -1,0 +1,11 @@
+{
+  "default": {
+    "total_score": 1,
+    "quizzes": {
+      "advanced": 0,
+      "beginner": 1,
+      "intermediate": 0
+    },
+    "corrections": 0
+  }
+}
