@@ -1,0 +1,240 @@
+{
+  "menu_title": {
+    "fr": "📌 Que veux-tu faire aujourd’hui ?",
+    "en": "📌 What do you want to do today?",
+    "dz": "📌 واش راك حاب تدير اليوم؟"
+  },
+  "quiz_option": {
+    "fr": "quiz → Lancer un quiz libre",
+    "en": "quiz → Start a free quiz",
+    "dz": "quiz → نبداو اختبار"
+  },
+  "parcours_option": {
+    "fr": "parcours → Mode apprentissage par niveau",
+    "en": "learning → Level-by-level mode",
+    "dz": "ta3alloum → نتعلمو بالمستوى"
+  },
+  "context_option": {
+    "fr": "contexte → Accéder aux dialogues par thème",
+    "en": "context → Access themed conversations",
+    "dz": "mawdo3 → نشوفو المواضيع"
+  },
+  "correction_option": {
+    "fr": "corriger → Corriger une phrase",
+    "en": "correct → Fix a sentence",
+    "dz": "saha7 → صححلي جملة"
+  },
+  "exit_option": {
+    "fr": "exit → Quitter",
+    "en": "exit → Exit",
+    "dz": "khroj → نخرج من التطبيق"
+  },
+  "progress_option": {
+    "fr": "progression → Voir progression et badges",
+    "en": "progress → See progress and badges",
+    "dz": "ta9adom → تشوف التقدم والبادجات"
+  },
+  "logs_option": {
+    "fr": "logs → Voir l’historique des corrections",
+    "en": "logs → View correction history",
+    "dz": "logs → تشوف التاريخ ديال التصحيحات"
+  },
+  "challenge_option": {
+    "fr": "challenge → Mode quiz chronométré",
+    "en": "challenge → Timed quiz mode",
+    "dz": "tahaddi → اختبار مع الوقت"
+  },
+  "revision_option": {
+    "fr": "revision → Révision des erreurs passées",
+    "en": "revision → Review past mistakes",
+    "dz": "moraaja3a → مراجعة الأخطاء لي فاتت"
+  },
+
+  "correct_feedback": {
+    "fr": "✅ Correct !",
+    "en": "✅ Correct!",
+    "dz": "✅ صحيت !"
+  },
+  "wrong_feedback": {
+    "fr": "❌ Mauvaise réponse : {answer}",
+    "en": "❌ Wrong answer: {answer}",
+    "dz": "❌ غالط، الجواب الصحيح هو : {answer}"
+  },
+  "explanation_feedback": {
+    "fr": "📘 Explication : {explanation}",
+    "en": "📘 Explanation: {explanation}",
+    "dz": "📘 الشرح : {explanation}"
+  },
+  "score_feedback": {
+    "fr": "🏁 Score : {score}/{total}",
+    "en": "🏁 Score: {score}/{total}",
+    "dz": "🏁 نتيجتك : {score}/{total}"
+  },
+  "revision_summary": {
+    "fr": "📚 Révision terminée. Il te reste {remaining} erreurs à revoir.",
+    "en": "📚 Revision complete. You still have {remaining} mistakes to review.",
+    "dz": "📚 كملنا المراجعة. باقي {remaining} خطأ خاصك تراجعهم."
+  },
+  "progress_title": {
+  "fr": "📈 Progression de l'utilisateur : {user}",
+  "en": "📈 User progress: {user}",
+  "dz": "📈 التقدم ديال المستخدم : {user}"
+},
+"badge_title": {
+  "fr": "🏅 Badges débloqués pour {user} :",
+  "en": "🏅 Badges unlocked for {user}:",
+  "dz": "🏅 البادجات ديال {user} :"
+},
+"no_logs": {
+  "fr": "Aucun historique disponible.",
+  "en": "No history available.",
+  "dz": "ما كاين حتى سجل متوفر."
+},
+"frequent_errors": {
+  "fr": "⚠️ Tu as {count} erreurs fréquentes à éviter.",
+  "en": "⚠️ You have {count} common mistakes to avoid.",
+  "dz": "⚠️ عندك {count} خطأ دايم لازم تتجنبهم."
+},
+"review_intro": {
+  "fr": "🔁 Révision {index}: {question}",
+  "en": "🔁 Review {index}: {question}",
+  "dz": "🔁 مراجعة {index}: {question}"
+},
+"revision_summary": {
+  "fr": "📚 Révision terminée. Il te reste {remaining} erreurs à revoir.",
+  "en": "📚 Revision complete. You still have {remaining} mistakes to review.",
+  "dz": "📚 كملنا المراجعة. باقي {remaining} خطأ خاصك تراجعهم."
+},
+"your_answer": {
+  "fr": "Ta réponse : ",
+  "en": "Your answer: ",
+  "dz": "جاوب : "
+},
+"no_mistakes_file": {
+  "fr": "Aucune erreur trouvée.",
+  "en": "No mistakes found.",
+  "dz": "ما كاش أخطاء مسجلة."
+},
+"no_mistakes_user": {
+  "fr": "Tu n'as pas d'erreurs à réviser.",
+  "en": "You have no mistakes to review.",
+  "dz": "ما عندك حتى خطأ تراجعو."
+},
+"all_reviewed": {
+  "fr": "Tu as déjà bien révisé toutes tes erreurs. Bravo !",
+  "en": "You have already reviewed all your mistakes. Well done!",
+  "dz": "راجعت كل الأخطاء ديالك. برافو!"
+},
+"badge_parfait_beginner": {
+  "fr": "🏆 Parfait niveau débutant",
+  "en": "🏆 Perfect at beginner level",
+  "dz": "🏆 مثالي فالمستوى المبتدئ"
+},
+"badge_parfait_intermediate": {
+  "fr": "🏆 Parfait niveau intermédiaire",
+  "en": "🏆 Perfect at intermediate level",
+  "dz": "🏆 مثالي فالمستوى المتوسط"
+},
+"badge_parfait_advanced": {
+  "fr": "🏆 Parfait niveau avancé",
+  "en": "🏆 Perfect at advanced level",
+  "dz": "🏆 مثالي فالمستوى المتقدم"
+}
+,
+
+"next_level_prompt": {
+  "fr": "Appuie sur Entrée pour passer au niveau suivant...",
+  "en": "Press Enter to move to the next level...",
+  "dz": "اضغط Entrée باش تروح للمستوى التالي..."
+},
+"learning_path_completed": {
+  "fr": "Parcours terminé ! Tu as complété les 3 niveaux. Bravo 👏",
+  "en": "Path completed! You’ve finished all 3 levels. Well done 👏",
+  "dz": "كملتي الدورة! درتي 3 مستويات، تبارك الله 👏"
+},
+"choose_level": {
+  "fr": "Choisis un niveau : ",
+  "en": "Choose a level: ",
+  "dz": "اختار مستوى : "
+},
+"invalid_level": {
+  "fr": "❌ Niveau invalide.",
+  "en": "❌ Invalid level.",
+  "dz": "❌ مستوى غير صالح."
+},
+"levels_available": {
+  "fr": "Niveaux disponibles : {levels}",
+  "en": "Available levels: {levels}",
+  "dz": "المستويات المتاحة : {levels}"
+},
+"level_beginner": {
+  "fr": "débutant",
+  "en": "beginner",
+  "dz": "مبتدئ"
+},
+"level_intermediate": {
+  "fr": "intermédiaire",
+  "en": "intermediate",
+  "dz": "متوسط"
+},
+"level_advanced": {
+  "fr": "avancé",
+  "en": "advanced",
+  "dz": "متقدم"
+},
+"badge_bien_joue_advanced": {
+  "fr": "🥈 Bien joué niveau avancé",
+  "en": "🥈 Well done advanced level",
+  "dz": "🥈 خدمة زينة فالمستوى المتقدم"
+},
+"badge_bien_joue_intermediate": {
+  "fr": "🥈 Bien joué niveau intermédiaire",
+  "en": "🥈 Well done intermediate level",
+  "dz": "🥈 خدمة زينة فالمستوى المتوسط"
+},
+"badge_bien_joue_beginner": {
+  "fr": "🥈 Bien joué niveau débutant",
+  "en": "🥈 Well done beginner level",
+  "dz": "🥈 خدمة زينة فالمستوى المبتدئ"
+},
+"badge_a_retravailler_beginner": {
+  "fr": "🔁 Niveau débutant à retravailler",
+  "en": "🔁 Beginner level needs more work",
+  "dz": "🔁 خاصك تعاود المستوى المبتدئ"
+},
+"badge_a_retravailler_intermediate": {
+  "fr": "🔁 Niveau intermédiaire à retravailler",
+  "en": "🔁 Intermediate level needs more work",
+  "dz": "🔁 خاصك تعاود المستوى المتوسط"
+},
+"badge_a_retravailler_advanced": {
+  "fr": "🔁 Niveau avancé à retravailler",
+  "en": "🔁 Advanced level needs more work",
+  "dz": "🔁 خاصك تعاود المستوى المتقدم"
+},
+"current_level": {
+  "fr": "🎯 Niveau actuel : {level}",
+  "en": "🎯 Current level: {level}",
+  "dz": "🎯 المستوى الحالي : {level}"
+},
+  "review": {
+    "fr": "Révision",
+    "dz": "مراجعة",
+    "en": "Review"
+  },
+  "your_answer": {
+    "fr": "Ta réponse : ",
+    "dz": "جاوب : ",
+    "en": "Your answer: "
+  },
+  "continue_revision": {
+    "fr": "Continuer la révision ?",
+    "dz": "نكملو المراجعة؟",
+    "en": "Continue revision?"
+  }
+}
+
+
+
+
+

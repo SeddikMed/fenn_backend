@@ -1,0 +1,1969 @@
+{
+  "beginner": [
+    {
+      "question": "Comment dit-on 'raisin' en anglais ?",
+      "choices": [
+        "grape",
+        "apple",
+        "banana",
+        "fig"
+      ],
+      "answer": "grape"
+    },
+    {
+      "question": "Comment dit-on 'mangue' en anglais ?",
+      "choices": [
+        "mango",
+        "papaya",
+        "melon",
+        "peach"
+      ],
+      "answer": "mango"
+    },
+    {
+      "question": "Comment dit-on 'framboise' en anglais ?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry"
+    },
+    {
+      "question": "Comment dit-on 'framboise' en anglais ?",
+      "choices": [
+        "raspberry",
+        "strawberry",
+        "blackberry",
+        "currant"
+      ],
+      "answer": "raspberry"
+    },
+    {
+      "question": "Comment dit-on 'tomate' en anglais ?",
+      "choices": [
+        "tomato",
+        "pepper",
+        "lettuce",
+        "onion"
+      ],
+      "answer": "tomato"
+    },
+    {
+      "question": "Comment dit-on 'oignon' en anglais ?",
+      "choices": [
+        "onion",
+        "garlic",
+        "leek",
+        "shallot"
+      ],
+      "answer": "onion"
+    },
+    {
+      "question": "Comment dit-on 'main' en anglais ?",
+      "choices": [
+        "hand",
+        "arm",
+        "leg",
+        "foot"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "Comment dit-on 'bras' en anglais ?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "Comment dit-on 'doigt' en anglais ?",
+      "choices": [
+        "finger",
+        "toe",
+        "nail",
+        "hand"
+      ],
+      "answer": "finger"
+    },
+    {
+      "question": "Comment dit-on 'la peau' en anglais ?",
+      "choices": [
+        "skin",
+        "hair",
+        "nails",
+        "toes"
+      ],
+      "answer": "skin"
+    },
+    {
+      "question": "Comment dit-on 'pied' en anglais ?",
+      "choices": [
+        "foot",
+        "hand",
+        "toe",
+        "knee"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "Comment dit-on 'bouche' en anglais ?",
+      "choices": [
+        "mouth",
+        "tongue",
+        "cheek",
+        "lip"
+      ],
+      "answer": "mouth"
+    },
+    {
+      "question": "Comment dit-on 'doigt' en anglais ?",
+      "choices": [
+        "finger",
+        "toe",
+        "hand",
+        "thumb"
+      ],
+      "answer": "finger"
+    },
+    {
+      "question": "Comment dit-on 'chat' en anglais ?",
+      "choices": [
+        "cat",
+        "dog",
+        "house",
+        "bird"
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "Comment dit-on 'merci' en anglais ?",
+      "choices": [
+        "thank you",
+        "sorry",
+        "excuse me",
+        "yes"
+      ],
+      "answer": "thank you"
+    },
+    {
+      "question": "Comment dit-on 'école' en anglais ?",
+      "choices": [
+        "school",
+        "university",
+        "classroom",
+        "teacher"
+      ],
+      "answer": "school"
+    },
+    {
+      "question": "Comment dit-on 'vacances' en anglais ?",
+      "choices": [
+        "holiday",
+        "journey",
+        "trip",
+        "rest"
+      ],
+      "answer": "holiday"
+    },
+    {
+      "question": "Comment dit-on 'confiance' en anglais ?",
+      "choices": [
+        "hope",
+        "trust",
+        "confidence",
+        "power"
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question": "Comment dit-on 'chemise' en anglais ?",
+      "choices": [
+        "shirt",
+        "pants",
+        "jacket",
+        "hat"
+      ],
+      "answer": "shirt"
+    },
+    {
+      "question": "Comment dit-on 'chapeau' en anglais ?",
+      "choices": [
+        "hat",
+        "belt",
+        "coat",
+        "sock"
+      ],
+      "answer": "hat"
+    },
+    {
+      "question": "Comment dit-on 'robe' en anglais ?",
+      "choices": [
+        "dress",
+        "coat",
+        "jacket",
+        "blouse"
+      ],
+      "answer": "dress"
+    },
+    {
+      "question": "Comment dit-on 'manteau' en anglais ?",
+      "choices": [
+        "coat",
+        "shirt",
+        "hoodie",
+        "jacket"
+      ],
+      "answer": "coat"
+    },
+    {
+      "question": "Comment dit-on 'veste de pluie' en anglais ?",
+      "choices": [
+        "raincoat",
+        "hoodie",
+        "sweater",
+        "vest"
+      ],
+      "answer": "raincoat"
+    },
+    {
+      "question": "Comment dit-on 'professeur' en anglais ?",
+      "choices": [
+        "teacher",
+        "principal",
+        "student",
+        "friend"
+      ],
+      "answer": "teacher"
+    },
+    {
+      "question": "Comment dit-on 'stylo' en anglais ?",
+      "choices": [
+        "pen",
+        "pencil",
+        "ruler",
+        "marker"
+      ],
+      "answer": "pen"
+    },
+    {
+      "question": "Comment dit-on 'emploi du temps' en anglais ?",
+      "choices": [
+        "schedule",
+        "diary",
+        "report",
+        "syllabus"
+      ],
+      "answer": "schedule"
+    },
+    {
+      "question": "Comment dit-on 'melancholy' en anglais ?",
+      "choices": [
+        "sadness",
+        "joy",
+        "fear",
+        "anger"
+      ],
+      "answer": "sadness"
+    },
+    {
+      "question": "Comment dit-on 'abricot' en anglais ?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot"
+    },
+    {
+      "question": "Comment dit-on 'abricot' en anglais ?",
+      "choices": [
+        "apricot",
+        "plum",
+        "peach",
+        "pear"
+      ],
+      "answer": "apricot"
+    },
+    {
+      "question": "Comment dit-on 'pomme' en anglais ?",
+      "choices": [
+        "apple",
+        "banana",
+        "grape",
+        "kiwi"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "Comment dit-on 'avocat' en anglais ?",
+      "choices": [
+        "avocado",
+        "banana",
+        "lime",
+        "papaya"
+      ],
+      "answer": "avocado"
+    },
+    {
+      "question": "Comment dit-on 'pomme de terre' en anglais ?",
+      "choices": [
+        "potato",
+        "carrot",
+        "beet",
+        "pea"
+      ],
+      "answer": "potato"
+    },
+    {
+      "question": "Comment dit-on 'carotte' en anglais ?",
+      "choices": [
+        "carrot",
+        "parsnip",
+        "zucchini",
+        "turnip"
+      ],
+      "answer": "carrot"
+    },
+    {
+      "question": "Comment dit-on 'ananas' en anglais ?",
+      "choices": [
+        "pineapple",
+        "pinapple",
+        "pineappel",
+        "pineaple"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Comment dit-on 'fraise' en anglais ?",
+      "choices": [
+        "strawberry",
+        "strawbery",
+        "strawbary",
+        "strowberry"
+      ],
+      "answer": "strawberry"
+    },
+    {
+      "question": "Comment dit-on 'brocoli' en anglais ?",
+      "choices": [
+        "broccoli",
+        "brocoly",
+        "brokoli",
+        "broccoly"
+      ],
+      "answer": "broccoli"
+    },
+    {
+      "question": "Comment dit-on 'betterave' en anglais ?",
+      "choices": [
+        "beetroot",
+        "beatroot",
+        "beatroat",
+        "bitroot"
+      ],
+      "answer": "beetroot"
+    },
+    {
+      "question": "Comment dit-on 'champignon' en anglais ?",
+      "choices": [
+        "mushroom",
+        "mashroom",
+        "muschroom",
+        "mouchroom"
+      ],
+      "answer": "mushroom"
+    },
+    {
+      "question": "Comment dit-on 'persil' en anglais ?",
+      "choices": [
+        "parsley",
+        "parslay",
+        "parsly",
+        "parceley"
+      ],
+      "answer": "parsley"
+    },
+    {
+      "question": "Comment dit-on 'cheveux' en anglais ?",
+      "choices": [
+        "hair",
+        "hare",
+        "hear",
+        "herr"
+      ],
+      "answer": "hair"
+    },
+    {
+      "question": "Comment dit-on 'sourcil' en anglais ?",
+      "choices": [
+        "eyebrow",
+        "ankle",
+        "knee",
+        "heel"
+      ],
+      "answer": "eyebrow"
+    },
+    {
+      "question": "Comment dit-on 'genou' en anglais ?",
+      "choices": [
+        "knee",
+        "back",
+        "head",
+        "chest"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "Comment dit-on 'yeux' en anglais ?",
+      "choices": [
+        "eyes",
+        "ears",
+        "mouth",
+        "skin"
+      ],
+      "answer": "eyes"
+    },
+    {
+      "question": "Comment dit-on 'genou' en anglais ?",
+      "choices": [
+        "knee",
+        "ankle",
+        "heel",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    
+    {
+      "question": "Comment dit-on 'cheville' en anglais ?",
+      "choices": [
+        "ankle",
+        "heel",
+        "knee",
+        "calf"
+      ],
+      "answer": "ankle"
+    },
+    {
+      "question": "Comment dit-on 'poignet' en anglais ?",
+      "choices": [
+        "wrist",
+        "elbow",
+        "hand",
+        "palm"
+      ],
+      "answer": "wrist"
+    },
+    {
+      "question": "Comment dit-on 'coude' en anglais ?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "hand"
+      ],
+      "answer": "elbow"
+    },
+    {
+      "question": "Comment dit-on 'pouce' en anglais ?",
+      "choices": [
+        "thumb",
+        "finger",
+        "hand",
+        "palm"
+      ],
+      "answer": "thumb"
+    },
+    {
+      "question": "Comment dit-on 'yeux' en anglais ?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "head"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "Comment dit-on 'avant bras' en anglais ?",
+      "choices": [
+        "forearm",
+        "hand",
+        "bicep",
+        "shoulder"
+      ],
+      "answer": "forearm"
+    },
+    {
+      "question": "Comment dit-on 'colonne vertabrales' en anglais ?",
+      "choices": [
+        "spine",
+        "hip",
+        "belly",
+        "chest"
+      ],
+      "answer": "spine"
+    },
+    {
+      "question": "Comment dit-on ' apple a day keeps the doctor away' en anglais ?",
+      "choices": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "answer": "An"
+    },
+    {
+      "question": "Comment dit-on 'I was tired ___ I went to bed' en anglais ?",
+      "choices": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": "so"
+    },
+    {
+      "question": "Comment dit-on 'quand' en anglais ?",
+      "choices": [
+        "Where",
+        "When",
+        "Why",
+        "How"
+      ],
+      "answer": "When"
+    },
+    {
+      "question": "Comment dit-on 'coton' en anglais ?",
+      "choices": [
+        "cotton",
+        "wool",
+        "leather",
+        "velvet"
+      ],
+      "answer": "cotton"
+    },
+    {
+      "question": "Comment dit-on 'lycee' en anglais ?",
+      "choices": [
+        "high school",
+        "kindergarten",
+        "college",
+        "nursery"
+      ],
+      "answer": "high school"
+    },
+    {
+      "question": "Comment dit-on 'not excited' en anglais ?",
+      "choices": [
+        "bored",
+        "thrilled",
+        "glad",
+        "hopeful"
+      ],
+      "answer": "bored"
+    },
+    {
+      "question": "Comment dit-on 'relaxed' en anglais ?",
+      "choices": [
+        "calm",
+        "anxious",
+        "scared",
+        "sad"
+      ],
+      "answer": "calm"
+    },
+    {
+      "question": "Comment dit-on 'unable to control anger' en anglais ?",
+      "choices": [
+        "furious",
+        "melancholic",
+        "content",
+        "hopeful"
+      ],
+      "answer": "furious"
+    },
+    {
+      "question": "Comment dit-on 'oignon' en anglais ?",
+      "choices": [
+        "onion",
+        "leek",
+        "garlic",
+        "shallot"
+      ],
+      "answer": "onion"
+    },
+    {
+      "question": "Comment dit-on 'brocoli' en anglais ?",
+      "choices": [
+        "broccoli",
+        "spinach",
+        "lettuce",
+        "cabbage"
+      ],
+      "answer": "broccoli"
+    },
+    {
+      "question": "Comment dit-on 'echarpe' en anglais ?",
+      "choices": [
+        "scarf",
+        "sneakers",
+        "boots",
+        "slippers"
+      ],
+      "answer": "scarf"
+    },
+    {
+      "question": "comment conjuger 'eat' au passe en anglais ?",
+      "choices": [
+        "eated",
+        "ate",
+        "eats",
+        "eaten"
+      ],
+      "answer": "ate"
+    },
+    {
+      "question": "Comment dit-on 'tableau' en anglais ?",
+      "choices": [
+        "board",
+        "wall",
+        "window",
+        "floor"
+      ],
+      "answer": "board"
+    },
+    {
+      "question": "Comment dit-on 'sad' en anglais ?",
+      "choices": [
+        "happy",
+        "angry",
+        "worried",
+        "bored"
+      ],
+      "answer": "happy"
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Comment dit-on 'citron' en anglais ?",
+      "choices": [
+        "lemon",
+        "lime",
+        "orange",
+        "grapefruit"
+      ],
+      "answer": "lemon"
+    },
+    {
+      "question": "Comment dit-on 'pêche' en anglais ?",
+      "choices": [
+        "peach",
+        "plum",
+        "pear",
+        "apricot"
+      ],
+      "answer": "peach"
+    },
+    {
+      "question": "Comment dit-on 'ananas' en anglais ?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Comment dit-on 'ananas' en anglais ?",
+      "choices": [
+        "pineapple",
+        "mango",
+        "papaya",
+        "orange"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Comment dit-on 'concombre' en anglais ?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pea"
+      ],
+      "answer": "cucumber"
+    },
+    {
+      "question": "Comment dit-on 'épinard' en anglais ?",
+      "choices": [
+        "spinach",
+        "lettuce",
+        "cabbage",
+        "parsley"
+      ],
+      "answer": "spinach"
+    },
+    {
+      "question": "Comment dit-on 'haricot' en anglais ?",
+      "choices": [
+        "bean",
+        "pea",
+        "lentil",
+        "corn"
+      ],
+      "answer": "bean"
+    },
+    {
+      "question": "Comment dit-on 'pied' en anglais ?",
+      "choices": [
+        "foot",
+        "toe",
+        "heel",
+        "leg"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "Comment dit-on 'jambe' en anglais ?",
+      "choices": [
+        "leg",
+        "foot",
+        "knee",
+        "hip"
+      ],
+      "answer": "leg"
+    },
+    {
+      "question": "Comment dit-on 'épaule' en anglais ?",
+      "choices": [
+        "shoulder",
+        "chest",
+        "neck",
+        "arm"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "Comment dit-on 'tête' en anglais ?",
+      "choices": [
+        "head",
+        "shoulder",
+        "neck",
+        "face"
+      ],
+      "answer": "head"
+    },
+    {
+      "question": "Comment dit-on 'oeil' en anglais ?",
+      "choices": [
+        "eye",
+        "ear",
+        "eyebrow",
+        "eyelash"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "Comment dit-on 'bras' en anglais ?",
+      "choices": [
+        "arm",
+        "hand",
+        "shoulder",
+        "elbow"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "Comment dit-on '____ is your name?' en anglais ?",
+      "choices": [
+        "Who",
+        "What",
+        "Which",
+        "How"
+      ],
+      "answer": "What"
+    },
+    {
+      "question": "Comment dit-on 'chien' en anglais ?",
+      "choices": [
+        "rabbit",
+        "dog",
+        "fish",
+        "cat"
+      ],
+      "answer": "dog"
+    },
+    {
+      "question": "Comment dit-on 'maison' en anglais ?",
+      "choices": [
+        "school",
+        "house",
+        "store",
+        "park"
+      ],
+      "answer": "house"
+    },
+    {
+      "question": "Comment dit-on 'travail' en anglais ?",
+      "choices": [
+        "work",
+        "play",
+        "meeting",
+        "break"
+      ],
+      "answer": "work"
+    },
+    {
+      "question": "Comment dit-on 'apprentissage' en anglais ?",
+      "choices": [
+        "training",
+        "learning",
+        "improving",
+        "studying"
+      ],
+      "answer": "learning"
+    },
+    {
+      "question": "Comment dit-on 'communication' en anglais ?",
+      "choices": [
+        "language",
+        "interaction",
+        "communication",
+        "conversation"
+      ],
+      "answer": "communication"
+    },
+    {
+      "question": "Comment dit-on 'pantalon' en anglais ?",
+      "choices": [
+        "trousers",
+        "shoes",
+        "tie",
+        "cap"
+      ],
+      "answer": "trousers"
+    },
+    {
+      "question": "Comment dit-on 'veste' en anglais ?",
+      "choices": [
+        "jacket",
+        "hoodie",
+        "sweater",
+        "t-shirt"
+      ],
+      "answer": "jacket"
+    },
+    {
+      "question": "Comment dit-on 'chaussettes' en anglais ?",
+      "choices": [
+        "socks",
+        "boots",
+        "gloves",
+        "shoes"
+      ],
+      "answer": "socks"
+    },
+    {
+      "question": "Comment dit-on 'élève' en anglais ?",
+      "choices": [
+        "student",
+        "teacher",
+        "parent",
+        "classroom"
+      ],
+      "answer": "student"
+    },
+    {
+      "question": "Comment dit-on 'récréation' en anglais ?",
+      "choices": [
+        "recess",
+        "breakfast",
+        "lesson",
+        "exam"
+      ],
+      "answer": "recess"
+    },
+    {
+      "question": "Comment dit-on 'orange' en anglais ?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange"
+    },
+    {
+      "question": "Comment dit-on 'orange' en anglais ?",
+      "choices": [
+        "orange",
+        "lemon",
+        "tangerine",
+        "grapefruit"
+      ],
+      "answer": "orange"
+    },
+    {
+      "question": "Comment dit-on 'ananas' en anglais ?",
+      "choices": [
+        "pineapple",
+        "melon",
+        "papaya",
+        "mango"
+      ],
+      "answer": "pineapple"
+    },
+    {
+      "question": "Comment dit-on 'banane' en anglais ?",
+      "choices": [
+        "banana",
+        "pear",
+        "grapefruit",
+        "orange"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Comment dit-on 'pêche' en anglais ?",
+      "choices": [
+        "peach",
+        "peech",
+        "pech",
+        "piche"
+      ],
+      "answer": "peach"
+    },
+    {
+      "question": "Comment dit-on 'banane' en anglais ?",
+      "choices": [
+        "banana",
+        "bananna",
+        "bananah",
+        "bannana"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Comment dit-on 'chou-fleur' en anglais ?",
+      "choices": [
+        "cauliflower",
+        "coliflower",
+        "couliflower",
+        "califlower"
+      ],
+      "answer": "cauliflower"
+    },
+    {
+      "question": "Comment dit-on 'navet' en anglais ?",
+      "choices": [
+        "turnip",
+        "ternip",
+        "tournip",
+        "tornip"
+      ],
+      "answer": "turnip"
+    },
+    {
+      "question": "Comment dit-on 'maïs' en anglais ?",
+      "choices": [
+        "corn",
+        "korn",
+        "coorn",
+        "corne"
+      ],
+      "answer": "corn"
+    },
+    {
+      "question": "Comment dit-on 'genou' en anglais ?",
+      "choices": [
+        "knee",
+        "knie",
+        "nee",
+        "kne"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "Comment dit-on 'oreille' en anglais ?",
+      "choices": [
+        "ears",
+        "eyes",
+        "mouth",
+        "nose"
+      ],
+      "answer": "ears"
+    },
+    {
+      "question": "Comment dit-on 'crane' en anglais ?",
+      "choices": [
+        "skull",
+        "scalp",
+        "skin",
+        "muscle"
+      ],
+      "answer": "skull"
+    },
+    {
+      "question": "Comment dit-on 'poumons' en anglais ?",
+      "choices": [
+        "lungs",
+        "liver",
+        "intestines",
+        "kidneys"
+      ],
+      "answer": "lungs"
+    },
+    {
+      "question": "Comment dit-on 'menton' en anglais ?",
+      "choices": [
+        "chin",
+        "cheek",
+        "lip",
+        "nose"
+      ],
+      "answer": "chin"
+    },
+    {
+      "question": "Comment dit-on 'ventre' en anglais ?",
+      "choices": [
+        "belly",
+        "chest",
+        "back",
+        "hip"
+      ],
+      "answer": "belly"
+    },
+    {
+      "question": "Comment dit-on 'hanche' en anglais ?",
+      "choices": [
+        "hip",
+        "waist",
+        "belly",
+        "back"
+      ],
+      "answer": "hip"
+    },
+    {
+      "question": "Comment dit-on 'nez' en anglais ?",
+      "choices": [
+        "nose",
+        "mouth",
+        "eye",
+        "ear"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "Comment dit-on 'cou' en anglais ?",
+      "choices": [
+        "neck",
+        "chest",
+        "back",
+        "arm"
+      ],
+      "answer": "neck"
+    },
+    {
+      "question": "Comment dit-on 'menton' en anglais ?",
+      "choices": [
+        "chin",
+        "nose",
+        "lip",
+        "neck"
+      ],
+      "answer": "chin"
+    },
+    {
+      "question": "Comment dit-on 'main' en anglais ?",
+      "choices": [
+        "hand",
+        "foot",
+        "elbow",
+        "knee"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "Comment dit-on 'il part a l'ecole' en anglais ?",
+      "choices": [
+        "He go to school.",
+        "He goes to school.",
+        "He going to school.",
+        "He gone to school."
+      ],
+      "answer": "He goes to school."
+    },
+    {
+      "question": "Comment dit-on 'elle as adopte un chien' en anglais ?",
+      "choices": [
+        "She adopted an dog.",
+        "She adopted a dog.",
+        "She adopted dog.",
+        "She adopted the dog."
+      ],
+      "answer": "She adopted a dog."
+    },
+    {
+      "question": "Comment dit-on 'She is smart ___ hardworking.' en anglais ?",
+      "choices": [
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "answer": "and"
+    },
+    {
+      "question": "Comment dit-on 'echarpe' en anglais ?",
+      "choices": [
+        "scarf",
+        "gloves",
+        "boots",
+        "jeans"
+      ],
+      "answer": "scarf"
+    },
+    {
+      "question": "Comment dit-on 'costume' en anglais ?",
+      "choices": [
+        "tuxedo",
+        "shorts",
+        "t-shirt",
+        "jeans"
+      ],
+      "answer": "tuxedo"
+    },
+    {
+      "question": "Comment dit-on 'crayon' en anglais ?",
+      "choices": [
+        "pencil",
+        "pen",
+        "crayon",
+        "color"
+      ],
+      "answer": "pencil"
+    },
+    {
+      "question": "Comment dit-on 'devoirs à la maison' en anglais ?",
+      "choices": [
+        "homework",
+        "exam",
+        "test",
+        "project"
+      ],
+      "answer": "homework"
+    },
+    {
+      "question": "Comment dit-on 'guilty' en anglais ?",
+      "choices": [
+        "remorseful",
+        "happy",
+        "excited",
+        "curious"
+      ],
+      "answer": "remorseful"
+    },
+    {
+      "question": "Comment dit-on 'euphoria' en anglais ?",
+      "choices": [
+        "intense happiness",
+        "deep anger",
+        "mild interest",
+        "complete boredom"
+      ],
+      "answer": "intense happiness"
+    },
+    {
+      "question": "Comment dit-on 'aubergine' en anglais ?",
+      "choices": [
+        "eggplant",
+        "carrot",
+        "zucchini",
+        "lettuce"
+      ],
+      "answer": "eggplant"
+    },
+    {
+      "question": "Comment dit-on 'avocat' en anglais ?",
+      "choices": [
+        "avocado",
+        "pepper",
+        "tomato",
+        "cucumber"
+      ],
+      "answer": "avocado"
+    },
+    {
+      "question": "Comment dit-on 'radis' en anglais ?",
+      "choices": [
+        "radish",
+        "onion",
+        "garlic",
+        "chili"
+      ],
+      "answer": "radish"
+    },
+    {
+      "question": "Comment dit-on 'concombre' en anglais ?",
+      "choices": [
+        "cucumber",
+        "zucchini",
+        "bean",
+        "pepper"
+      ],
+      "answer": "cucumber"
+    },
+    {
+      "question": "Comment dit-on 'ongle' en anglais ?",
+      "choices": [
+        "fingernail",
+        "toe",
+        "ankle",
+        "eye"
+      ],
+      "answer": "fingernail"
+    },
+    {
+      "question": "Comment dit-on 'coeur' en anglais ?",
+      "choices": [
+        "heart",
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "answer": "heart"
+    },
+    {
+      "question": "Comment dit-on 'coude' en anglais ?",
+      "choices": [
+        "elbow",
+        "wrist",
+        "shoulder",
+        "fingers"
+      ],
+      "answer": "elbow"
+    },
+    {
+      "question": "Comment dit-on 'gants' en anglais ?",
+      "choices": [
+        "gloves",
+        "socks",
+        "tie",
+        "shirt"
+      ],
+      "answer": "gloves"
+    },
+    {
+      "question": "Comment dit-on 'lunette de soleil' en anglais ?",
+      "choices": [
+        "sunglasses",
+        "hat",
+        "scarf",
+        "cap"
+      ],
+      "answer": "sunglasses"
+    },
+    {
+      "question": "Comment dit-on 'examen' en anglais ?",
+      "choices": [
+        "exam",
+        "homework",
+        "recess",
+        "essay"
+      ],
+      "answer": "exam"
+    },
+    {
+      "question": "Comment dit-on 'angry' en anglais ?",
+      "choices": [
+        "mad",
+        "happy",
+        "tired",
+        "relaxed"
+      ],
+      "answer": "mad"
+    },
+    {
+      "question": "Comment dit-on 'nervous' en anglais ?",
+      "choices": [
+        "worried",
+        "joyful",
+        "calm",
+        "bored"
+      ],
+      "answer": "worried"
+    },
+    {
+      "question": "Comment dit-on 'posee' en anglais ?",
+      "choices": [
+        "staying calm in stress",
+        "getting easily frustrated",
+        "avoiding emotions",
+        "hiding fear"
+      ],
+      "answer": "staying calm in stress"
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Comment dit-on 'fraise' en anglais ?",
+      "choices": [
+        "strawberry",
+        "raspberry",
+        "blueberry",
+        "cherry"
+      ],
+      "answer": "strawberry"
+    },
+    {
+      "question": "Comment dit-on 'pastèque' en anglais ?",
+      "choices": [
+        "watermelon",
+        "melon",
+        "grapefruit",
+        "pineapple"
+      ],
+      "answer": "watermelon"
+    },
+    {
+      "question": "Comment dit-on 'banane' en anglais ?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Comment dit-on 'banane' en anglais ?",
+      "choices": [
+        "banana",
+        "peach",
+        "plum",
+        "grape"
+      ],
+      "answer": "banana"
+    },
+    {
+      "question": "Comment dit-on 'ail' en anglais ?",
+      "choices": [
+        "garlic",
+        "onion",
+        "leek",
+        "ginger"
+      ],
+      "answer": "garlic"
+    },
+    {
+      "question": "Comment dit-on 'courgette' en anglais ?",
+      "choices": [
+        "zucchini",
+        "eggplant",
+        "bean",
+        "pea"
+      ],
+      "answer": "zucchini"
+    },
+    {
+      "question": "Comment dit-on 'poivron' en anglais ?",
+      "choices": [
+        "pepper",
+        "tomato",
+        "cucumber",
+        "zucchini"
+      ],
+      "answer": "pepper"
+    },
+    {
+      "question": "Comment dit-on 'nez' en anglais ?",
+      "choices": [
+        "nose",
+        "ear",
+        "eye",
+        "mouth"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "Comment dit-on 'œil' en anglais ?",
+      "choices": [
+        "eye",
+        "ear",
+        "mouth",
+        "nose"
+      ],
+      "answer": "eye"
+    },
+    {
+      "question": "Comment dit-on 'bouche' en anglais ?",
+      "choices": [
+        "mouth",
+        "nose",
+        "eye",
+        "ear"
+      ],
+      "answer": "mouth"
+    },
+    {
+      "question": "Comment dit-on 'oreille' en anglais ?",
+      "choices": [
+        "ear",
+        "eye",
+        "mouth",
+        "cheek"
+      ],
+      "answer": "ear"
+    },
+    {
+      "question": "Comment dit-on 'main' en anglais ?",
+      "choices": [
+        "hand",
+        "arm",
+        "foot",
+        "head"
+      ],
+      "answer": "hand"
+    },
+    {
+      "question": "Comment dit-on 'nez' en anglais ?",
+      "choices": [
+        "nose",
+        "eye",
+        "ear",
+        "mouth"
+      ],
+      "answer": "nose"
+    },
+    {
+      "question": "Comment dit-on 'jambe' en anglais ?",
+      "choices": [
+        "leg",
+        "arm",
+        "thigh",
+        "foot"
+      ],
+      "answer": "leg"
+    },
+    {
+      "question": "Comment dit-on 'genou' en anglais ?",
+      "choices": [
+        "knee",
+        "leg",
+        "foot",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "Comment dit-on '____ did you do that?' en anglais ?",
+      "choices": [
+        "Why",
+        "When",
+        "How many",
+        "What"
+      ],
+      "answer": "Why"
+    },
+    {
+      "question": "Comment dit-on 'bonjour' en anglais ?",
+      "choices": [
+        "hello",
+        "goodbye",
+        "thank you",
+        "please"
+      ],
+      "answer": "hello"
+    },
+    {
+      "question": "Comment dit-on 'voiture' en anglais ?",
+      "choices": [
+        "bike",
+        "bus",
+        "car",
+        "train"
+      ],
+      "answer": "car"
+    },
+    {
+      "question": "Comment dit-on 'famille' en anglais ?",
+      "choices": [
+        "family",
+        "friends",
+        "team",
+        "group"
+      ],
+      "answer": "family"
+    },
+    {
+      "question": "Comment dit-on 'développement' en anglais ?",
+      "choices": [
+        "growth",
+        "building",
+        "development",
+        "design"
+      ],
+      "answer": "development"
+    },
+    {
+      "question": "Comment dit-on 'compréhension' en anglais ?",
+      "choices": [
+        "understanding",
+        "learning",
+        "perception",
+        "reflection"
+      ],
+      "answer": "understanding"
+    },
+    {
+      "question": "Comment dit-on 'chaussures' en anglais ?",
+      "choices": [
+        "shoes",
+        "scarf",
+        "boots",
+        "gloves"
+      ],
+      "answer": "shoes"
+    },
+    {
+      "question": "Comment dit-on 'jupe' en anglais ?",
+      "choices": [
+        "skirt",
+        "shirt",
+        "sock",
+        "tie"
+      ],
+      "answer": "skirt"
+    },
+    {
+      "question": "Comment dit-on 'cravate' en anglais ?",
+      "choices": [
+        "tie",
+        "belt",
+        "hat",
+        "cap"
+      ],
+      "answer": "tie"
+    },
+    {
+      "question": "Comment dit-on 'école' en anglais ?",
+      "choices": [
+        "school",
+        "class",
+        "student",
+        "teacher"
+      ],
+      "answer": "school"
+    },
+    {
+      "question": "Comment dit-on 'livre' en anglais ?",
+      "choices": [
+        "book",
+        "notebook",
+        "pen",
+        "paper"
+      ],
+      "answer": "book"
+    },
+    {
+      "question": "Comment dit-on 'happy' en anglais ?",
+      "choices": [
+        "joyful",
+        "angry",
+        "tired",
+        "sad"
+      ],
+      "answer": "joyful"
+    },
+    {
+      "question": "Comment dit-on 'scared' en anglais ?",
+      "choices": [
+        "afraid",
+        "happy",
+        "sleepy",
+        "calm"
+      ],
+      "answer": "afraid"
+    },
+    {
+      "question": "Comment dit-on 'jealous' en anglais ?",
+      "choices": [
+        "envious",
+        "tired",
+        "glad",
+        "shy"
+      ],
+      "answer": "envious"
+    },
+    {
+      "question": "Comment dit-on 'apprehensive' en anglais ?",
+      "choices": [
+        "anxious",
+        "excited",
+        "confident",
+        "carefree"
+      ],
+      "answer": "anxious"
+    },
+    {
+      "question": "Comment dit-on 'pomme' en anglais ?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "Comment dit-on 'pomme' en anglais ?",
+      "choices": [
+        "apple",
+        "pear",
+        "banana",
+        "melon"
+      ],
+      "answer": "apple"
+    },
+    {
+      "question": "Comment dit-on 'pasteque' en anglais ?",
+      "choices": [
+        "watermelon",
+        "apple",
+        "pear",
+        "kiwi"
+      ],
+      "answer": "watermelon"
+    },
+    {
+      "question": "Comment dit-on 'citron' en anglais ?",
+      "choices": [
+        "lemon",
+        "leemon",
+        "lemen",
+        "limoon"
+      ],
+      "answer": "lemon"
+    },
+    {
+      "question": "Comment dit-on 'raisin' en anglais ?",
+      "choices": [
+        "grape",
+        "greip",
+        "graip",
+        "graep"
+      ],
+      "answer": "grape"
+    },
+    {
+      "question": "Comment dit-on 'poireau' en anglais ?",
+      "choices": [
+        "leek",
+        "lick",
+        "leack",
+        "leck"
+      ],
+      "answer": "leek"
+    },
+    {
+      "question": "Comment dit-on 'salade' en anglais ?",
+      "choices": [
+        "lettuce",
+        "letuce",
+        "lattuce",
+        "letus"
+      ],
+      "answer": "lettuce"
+    },
+    {
+      "question": "Comment dit-on 'radis' en anglais ?",
+      "choices": [
+        "radish",
+        "raddish",
+        "radissh",
+        "raddiche"
+      ],
+      "answer": "radish"
+    },
+    {
+      "question": "Comment dit-on 'bras' en anglais ?",
+      "choices": [
+        "arm",
+        "leg",
+        "head",
+        "back"
+      ],
+      "answer": "arm"
+    },
+    {
+      "question": "Comment dit-on 'epaule' en anglais ?",
+      "choices": [
+        "shoulder",
+        "nose",
+        "eyes",
+        "lips"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "Comment dit-on 'pied' en anglais ?",
+      "choices": [
+        "foot",
+        "hand",
+        "elbow",
+        "shoulder"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question": "Comment dit-on 'doigt' en anglais ?",
+      "choices": [
+        "fingers",
+        "palms",
+        "toes",
+        "nails"
+      ],
+      "answer": "fingers"
+    },
+    {
+      "question": "Comment dit-on 'poumons' en anglais ?",
+      "choices": [
+        "lungs",
+        "nose",
+        "ears",
+        "eyes"
+      ],
+      "answer": "lungs"
+    },
+    {
+      "question": "Comment dit-on 'épaule' en anglais ?",
+      "choices": [
+        "shoulder",
+        "neck",
+        "arm",
+        "back"
+      ],
+      "answer": "shoulder"
+    },
+    {
+      "question": "Comment dit-on 'dos' en anglais ?",
+      "choices": [
+        "back",
+        "shoulder",
+        "spine",
+        "neck"
+      ],
+      "answer": "back"
+    },
+    {
+      "question": "Comment dit-on 'langue' en anglais ?",
+      "choices": [
+        "tongue",
+        "mouth",
+        "lip",
+        "throat"
+      ],
+      "answer": "tongue"
+    },
+    {
+      "question": "Comment dit-on 'oreille' en anglais ?",
+      "choices": [
+        "ear",
+        "eye",
+        "nose",
+        "head"
+      ],
+      "answer": "ear"
+    },
+    {
+      "question": "Comment dit-on 'genou' en anglais ?",
+      "choices": [
+        "knee",
+        "ankle",
+        "thigh",
+        "toe"
+      ],
+      "answer": "knee"
+    },
+    {
+      "question": "Comment dit-on 'levre' en anglais ?",
+      "choices": [
+        "lip",
+        "tongue",
+        "cheek",
+        "chin"
+      ],
+      "answer": "lip"
+    },
+    {
+      "question": "Comment dit-on 'By the time she arrived, we ____ dinner.' en anglais ?",
+      "choices": [
+        "have had",
+        "had had",
+        "has had",
+        "will have"
+      ],
+      "answer": "had had"
+    },
+    {
+      "question": "Comment dit-on 'the' en anglais ?",
+      "choices": [
+        "The Mount Everest is the highest mountain.",
+        "Mount Everest is the highest mountain.",
+        "The Everest is highest mountain.",
+        "Everest is highest the mountain."
+      ],
+      "answer": "Mount Everest is the highest mountain."
+    },
+    {
+      "question": "Comment dit-on 'parce que' en anglais ?",
+      "choices": [
+        "and",
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": "because"
+    },
+    {
+      "question": "Comment dit-on 'menteau' en anglais ?",
+      "choices": [
+        "coat",
+        "shorts",
+        "sandals",
+        "cap"
+      ],
+      "answer": "coat"
+    },
+    {
+      "question": "Comment dit-on 'ceinture' en anglais ?",
+      "choices": [
+        "belt",
+        "scarf",
+        "cap",
+        "sock"
+      ],
+      "answer": "belt"
+    },
+    {
+      "question": "Comment dit-on 'montre' en anglais ?",
+      "choices": [
+        "watch",
+        "shirt",
+        "pants",
+        "sneakers"
+      ],
+      "answer": "watch"
+    },
+    {
+      "question": "Comment dit-on 'salle de classe' en anglais ?",
+      "choices": [
+        "classroom",
+        "library",
+        "gym",
+        "cafeteria"
+      ],
+      "answer": "classroom"
+    },
+    {
+      "question": "Comment dit-on 'mathematique' en anglais ?",
+      "choices": [
+        "math",
+        "history",
+        "biology",
+        "art"
+      ],
+      "answer": "math"
+    },
+    {
+      "question": "Comment dit-on 'carotte' en anglais ?",
+      "choices": [
+        "carrot",
+        "beet",
+        "radish",
+        "pea"
+      ],
+      "answer": "carrot"
+    },
+    {
+      "question": "Comment dit-on 'epinards' en anglais ?",
+      "choices": [
+        "spinach",
+        "onion",
+        "garlic",
+        "radish"
+      ],
+      "answer": "spinach"
+    },
+    {
+      "question": "Comment dit-on 'mais' en anglais ?",
+      "choices": [
+        "corn",
+        "bean",
+        "lentil",
+        "pea"
+      ],
+      "answer": "corn"
+    },
+    {
+      "question": "Comment dit-on 'chou-fleur' en anglais ?",
+      "choices": [
+        "cauliflower",
+        "cabbage",
+        "broccoli",
+        "turnip"
+      ],
+      "answer": "cauliflower"
+    },
+    {
+      "question": "Comment dit-on 'cou' en anglais ?",
+      "choices": [
+        "neck",
+        "shoulder",
+        "back",
+        "hip"
+      ],
+      "answer": "neck"
+    },
+    {
+      "question": "Comment dit-on 'go' en anglais ?",
+      "choices": [
+        "goed",
+        "went",
+        "goes",
+        "gone"
+      ],
+      "answer": "went"
+    },
+    {
+      "question": "Comment dit-on 'directeur' en anglais ?",
+      "choices": [
+        "principal",
+        "professor",
+        "student",
+        "nurse"
+      ],
+      "answer": "principal"
+    },
+    {
+      "question": "Comment dit-on 'extremely happy' en anglais ?",
+      "choices": [
+        "ecstatic",
+        "tired",
+        "angry",
+        "cold"
+      ],
+      "answer": "ecstatic"
+    }
+  ]
+}

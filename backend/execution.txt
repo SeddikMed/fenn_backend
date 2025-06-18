@@ -1,0 +1,35 @@
+# Instructions d'exécution du projet Fenn 2
+
+## 1. Lancer le backend (API Python FastAPI)
+
+Ouvre un terminal (PowerShell ou CMD) et exécute :
+
+```
+cd "C:\Users\moham\Desktop\PFE\Fenn 2\backend"
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+```
+
+- Le backend sera accessible sur : http://localhost:8000
+- Les endpoints API sont sous `/chat/send` et autres routes définies dans le backend.
+
+---
+
+## 2. Lancer l'application Flutter (Frontend)
+
+Ouvre un autre terminal, puis :
+
+```
+cd "C:\Users\moham\Desktop\PFE\Fenn 2\fenn"
+flutter pub get
+flutter run
+```
+
+- L'application Flutter se lancera sur l'émulateur ou l'appareil connecté.
+- Vérifie que le backend Python est bien démarré avant de lancer le frontend !
+
+---
+
+## Remarques
+- Assure-toi d'avoir Python, pip, et toutes les dépendances installées (voir `requirements.txt` dans `backend`).
+- Assure-toi d'avoir Flutter installé et configuré sur ta machine.
+
