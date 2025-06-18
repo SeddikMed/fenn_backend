@@ -1,0 +1,52 @@
+# Ignorer les fichiers de modèles et volumineux
+*.pkl
+*.h5
+*.pt
+*.joblib
+*.sav
+*.npy
+*.npz
+
+# Ignorer les credentials et secrets
+firebase-credentials.json
+.env
+*.env
+
+# Ignorer les fichiers/dossiers temporaires Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.sqlite3
+
+# Ignorer les fichiers/dossiers spécifiques à FastAPI
+instance/
+
+# Ignorer les fichiers/dossiers de tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Ignorer les fichiers/dossiers générés par l'IDE
+.idea/
+.vscode/
+
+# Ignorer les fichiers/dossiers de build
+build/
+dist/
+*.egg-info/
+
+# Ignorer les fichiers/dossiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers/dossiers de migration
+migrations/
+
+# Ignorer les fichiers spécifiques de ton projet
+/data/intent_encoder_sbert.pkl
+/data/sentence_bert_encoder.pkl
+/services/chatbot/data/intent_encoder_sbert.pkl
+/services/chatbot/data/sentence_bert_encoder.pkl
+services/chatbot/data/intent_encoder_sbert.pkl
+services/chatbot/data/sentence_bert_encoder.pkl
